@@ -29,3 +29,6 @@ dsa
 AmalaNetwork
 Techfeed
 UKNewsByABot
+privacy
+topofreddit
+StallmanWasRight
