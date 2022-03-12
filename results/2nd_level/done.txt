@@ -32,3 +32,5 @@ UKNewsByABot
 privacy
 topofreddit
 StallmanWasRight
+restorethefourth
+USNEWS
