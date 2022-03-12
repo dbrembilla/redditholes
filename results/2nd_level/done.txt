@@ -26,3 +26,6 @@ countermine
 VaushV
 GoldandBlack
 dsa
+AmalaNetwork
+Techfeed
+UKNewsByABot
