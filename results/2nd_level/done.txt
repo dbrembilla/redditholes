@@ -64,3 +64,4 @@ privatelife
 prisons
 WhereAreTheChildren
 LeftWithoutEdge
+IntelligenceNews
