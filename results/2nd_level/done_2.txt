@@ -34,3 +34,4 @@ AutoNewspaper
 ColoradoForSanders
 DallasForSanders
 PortlandiaForSanders
+SocialDemocracy
