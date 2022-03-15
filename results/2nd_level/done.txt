@@ -65,3 +65,5 @@ prisons
 WhereAreTheChildren
 LeftWithoutEdge
 IntelligenceNews
+Futurology
+antiwork
