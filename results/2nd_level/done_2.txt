@@ -49,3 +49,4 @@ TheRecordCorrected
 jimmydore
 democraticparty
 PeoplesPartyUSA
+news_etc
