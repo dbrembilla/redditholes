@@ -67,3 +67,6 @@ LeftWithoutEdge
 IntelligenceNews
 Futurology
 antiwork
+DailyTechNewsShow
+AntiAmazon
+theworldnews
