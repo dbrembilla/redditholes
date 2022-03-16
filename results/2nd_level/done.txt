@@ -70,3 +70,6 @@ antiwork
 DailyTechNewsShow
 AntiAmazon
 theworldnews
+RideHome
+BlackFreeThinkers
+redscarepod
