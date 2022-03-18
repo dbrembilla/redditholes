@@ -94,3 +94,4 @@ Corruption
 news
 antigoogle
 prisonreform
+technews
