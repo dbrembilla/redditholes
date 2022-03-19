@@ -106,3 +106,5 @@ antiwar
 nofeenews
 thomasjefferson
 NBCauto
+Intercept
+craftofintelligence
