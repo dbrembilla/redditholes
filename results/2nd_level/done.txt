@@ -103,3 +103,5 @@ devopsish
 aclu
 realtech
 antiwar
+nofeenews
+thomasjefferson
