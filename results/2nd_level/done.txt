@@ -127,3 +127,4 @@ google
 2020Reclamation
 ScienceUncensored
 AmIFreeToGo
+tech
