@@ -69,4 +69,14 @@ TrueReddit
 ConcentrationOfWealth
 NewOrleansForSanders
 td_uncensored
+<<<<<<< HEAD
+=======
+SubredditSimulator
+newsokur
+HillaryForAmerica
+Conservatives_R_Us
+RIPworldnews
+GaryJohnson
+>>>>>>> b3e6d21ec041bbc17ae1136ad996a2755aaff3f9
 SanJoseForSanders
+Newsbeard
