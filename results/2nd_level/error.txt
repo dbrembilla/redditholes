@@ -2,3 +2,5 @@ tech
 TruthLeaks
 Stuff
 economy
+indepthstories
+FreedomNewsPolitics
