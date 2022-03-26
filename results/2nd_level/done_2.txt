@@ -112,3 +112,4 @@ NoLockedThreads
 u_ShadowMerge
 FreedomNewsPolitics
 TheAbditory
+seculartalk
