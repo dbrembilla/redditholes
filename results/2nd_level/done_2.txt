@@ -113,3 +113,5 @@ NoLockedThreads
 u_ShadowMerge
 FreedomNewsPolitics
 TheAbditory
+minnesotaforsanders
+tulsi
