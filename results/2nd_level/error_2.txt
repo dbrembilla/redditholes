@@ -49,3 +49,4 @@ NewOrleansForSanders
 SanJoseForSanders
 PhillyForSanders
 UtahForSanders
+france

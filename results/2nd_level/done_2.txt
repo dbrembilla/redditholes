@@ -148,3 +148,5 @@ SocialJusticeInAction
 TheBidenshitshow
 RTauto
 CryptoCurrency
+Bitcoin
+Monero
