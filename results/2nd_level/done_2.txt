@@ -148,3 +148,7 @@ SocialJusticeInAction
 TheBidenshitshow
 RTauto
 CryptoCurrency
+Bitcoin
+Monero
+TechPol
+WayOfTheAloha
