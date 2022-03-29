@@ -57,7 +57,7 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #000000;
+  color: #630404;
 }
 @media (max-width: 768px) {
   .section-header p {
@@ -597,14 +597,14 @@ section {
   border-bottom: 3px solid #2db6fa;
 }
 .services .service-box.blue .icon {
-  color: #f15641;
+  color: #2db6fa;
   background: #dbf3fe;
 }
 .services .service-box.blue .read-more {
-  color: #f15641;
+  color: #2db6fa;
 }
 .services .service-box.blue:hover {
-  background: #f15641;
+  background: #2db6fa;
 }
 .services .service-box.orange {
   border-bottom: 3px solid #f68c09;
