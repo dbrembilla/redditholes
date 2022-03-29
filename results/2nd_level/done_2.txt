@@ -153,3 +153,5 @@ Monero
 TechPol
 WayOfTheAloha
 france
+ronpaul
+julianassange
