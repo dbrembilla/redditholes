@@ -77,7 +77,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #f15641;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -89,7 +89,7 @@ section {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #630404;
+  background: #f15641;
   color: #fff;
 }
 .back-to-top.active {
@@ -595,89 +595,23 @@ section {
   margin-left: 5px;
   font-size: 18px;
 }
-.services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+.services .service-box {
+  border-bottom: 3px solid #000000;
 }
-.services .service-box.blue .icon {
-  color: #2db6fa;
-  background: #dbf3fe;
+.services .service-box .icon {
+  color: #f15641;
+  background: #ffffff;
 }
-.services .service-box.blue .read-more {
-  color: #2db6fa;
+
+.services .service-box:hover {
+  background: #000000;
 }
-.services .service-box.blue:hover {
-  background: #2db6fa;
-}
-.services .service-box.orange {
-  border-bottom: 3px solid #f68c09;
-}
-.services .service-box.orange .icon {
-  color: #f68c09;
-  background: #fde3c4;
-}
-.services .service-box.orange .read-more {
-  color: #f68c09;
-}
-.services .service-box.orange:hover {
-  background: #f68c09;
-}
-.services .service-box.green {
-  border-bottom: 3px solid #08da4e;
-}
-.services .service-box.green .icon {
-  color: #08da4e;
-  background: #cffddf;
-}
-.services .service-box.green .read-more {
-  color: #08da4e;
-}
-.services .service-box.green:hover {
-  background: #08da4e;
-}
-.services .service-box.red {
-  border-bottom: 3px solid #e9222c;
-}
-.services .service-box.red .icon {
-  color: #e9222c;
-  background: #fef7f8;
-}
-.services .service-box.red .read-more {
-  color: #e9222c;
-}
-.services .service-box.red:hover {
-  background: #e9222c;
-}
-.services .service-box.purple {
-  border-bottom: 3px solid #b50edf;
-}
-.services .service-box.purple .icon {
-  color: #b50edf;
-  background: #f8e4fd;
-}
-.services .service-box.purple .read-more {
-  color: #b50edf;
-}
-.services .service-box.purple:hover {
-  background: #b50edf;
-}
-.services .service-box.pink {
-  border-bottom: 3px solid #f51f9c;
-}
-.services .service-box.pink .icon {
-  color: #f51f9c;
-  background: #feecf7;
-}
-.services .service-box.pink .read-more {
-  color: #f51f9c;
-}
-.services .service-box.pink:hover {
-  background: #f51f9c;
-}
+
 .services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
-  color: #fff;
+  color: #ffffff;
 }
 .services .service-box:hover .icon {
-  background: #fff;
+  background: #ffffff;
 }
 
 /*--------------------------------------------------------------
