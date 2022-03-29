@@ -194,3 +194,4 @@ nouseforatitle
 canadaleft
 LeftieZ
 GreenAndPleasant
+Superstonk
