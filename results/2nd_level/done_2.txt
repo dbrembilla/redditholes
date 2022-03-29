@@ -152,3 +152,4 @@ Bitcoin
 Monero
 TechPol
 WayOfTheAloha
+france
