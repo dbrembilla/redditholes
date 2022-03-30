@@ -165,3 +165,5 @@ PersonOfInterest
 usanews
 techolitics
 conspiracydocumentary
+LegalNews
+DigitalCartel
