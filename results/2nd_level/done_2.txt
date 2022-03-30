@@ -161,3 +161,4 @@ bag_o_news
 randpaul
 techsnap
 PersonOfInterest
+usanews
