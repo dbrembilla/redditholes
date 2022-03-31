@@ -164,3 +164,8 @@ techsnap
 PersonOfInterest
 usanews
 OKForSanders
+techolitics
+conspiracydocumentary
+LegalNews
+DigitalCartel
+TorontoCrypto
