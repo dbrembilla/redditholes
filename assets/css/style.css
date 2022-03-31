@@ -158,10 +158,11 @@ section {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
+  color: #f15641 ;
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #ffffff;
+  visibility: hidden;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -170,12 +171,18 @@ section {
   line-height: 0;
   margin-left: 5px;
 }
-.navbar .active, .navbar .active:focus{
+
+.visible {
+  visibility: visible !important;
   color: #f15641 ;
 }
 
+.navbar .active, .navbar .active:focus{
+  color: #000000 ;
+}
+
 .navbar a:hover, .navbar li:hover > a {
-  color: #ffffff;
+  color: #000000;
 }
 
 @media (max-width: 1366px) {
