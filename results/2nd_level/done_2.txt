@@ -184,3 +184,11 @@ InfoSecNews
 SocialEngineering
 Stand
 edwardsnowden
+nsa
+PublicBelief
+NSALeaksBot
+REUTERSauto
+TOR
+firefox
+chrome
+LessCredibleDefence
