@@ -194,3 +194,4 @@ firefox
 chrome
 LessCredibleDefence
 australia
+ConspiracyX
