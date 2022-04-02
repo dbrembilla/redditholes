@@ -197,3 +197,5 @@ australia
 ConspiracyX
 PoliticalTalk
 Netrunners
+techgeeks
+theIrishleft
