@@ -312,6 +312,11 @@ section {
 .transparent {
   opacity: 0.5;
 }
+
+.distant{
+  padding-top: 3em !important;
+}
+
 @media (min-width: 1024px) {
   .hero {
     background-attachment: fixed;
@@ -329,6 +334,7 @@ section {
   .hero .hero-img img {
     width: 80%;
   }
+
 }
 @media (max-width: 768px) {
   .hero {
@@ -523,6 +529,21 @@ section {
   font-weight: 700;
   color: #f15641;
 }
+
+#reference{
+  padding-top: 5em !important;
+}
+
+#reference span{
+  color: #f15641;
+  font-weight: 700 !important;
+}
+
+#more_reference span{
+  color: #f15641;
+  font-weight: 700 !important;
+}
+
 .features .feture-tabs .tab-content i {
   font-size: 24px;
   line-height: 0;
