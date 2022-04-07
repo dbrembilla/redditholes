@@ -1,0 +1,30 @@
+{
+    "subreddit_1":{
+      "sub_name": "Nome_subreddit",
+      "redditors": "Numero_utenti",
+      "posts": "Numero_posts",
+      "topics": ["Lista_topics"],
+      "sentiment": ["Sentiment_analysis"],
+      "connections":{
+          "subreddit_n": "Numero di crossposts",
+          "subreddit_n1": "Numero di crossposts",
+          "subreddit_n2": "Numero di crossposts",
+          "subreddit_n3": "Numero di crossposts",
+          "subreddit_n4": "Numero di crossposts"
+      }
+     },
+     "subreddit_2":{
+        "sub_name": "Nome_subreddit",
+        "redditors": "Numero_utenti",
+        "posts": "Numero_posts",
+        "topics": ["Lista_topics"],
+        "sentiment": ["Sentiment_analysis"],
+        "connections":{
+            "subreddit_n": "Numero di crossposts",
+            "subreddit_n1": "Numero di crossposts",
+            "subreddit_n2": "Numero di crossposts",
+            "subreddit_n3": "Numero di crossposts",
+            "subreddit_n4": "Numero di crossposts"
+        }
+    }
+}

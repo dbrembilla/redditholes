@@ -199,7 +199,7 @@ section {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #ffffff;
+  color: #f15641;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -250,7 +250,7 @@ section {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #ffffff;
+  color: #000000;
 }
  .navbar-mobile .active{
   color: #f15641;
@@ -260,7 +260,7 @@ section {
 }
 
 .navbar-mobile a:hover,  .navbar-mobile li:hover > a {
-  color: #ffffff;
+  color: #f15641;
 }
 
 /*------------------------------------------------------------
@@ -654,11 +654,19 @@ section {
   margin-bottom: 2em;
 }
 
+@media (max-width: 1400px) {
+  .flip-card-front img{
+    margin-top: 0em;
+    max-height: 220px;
+    max-width: 250px;
+  }
+}
+
 @media (max-width: 991px) {
   .flip-card-front img{
     margin-top: 0em;
-    max-height: 250px;
-    max-width: 300px;
+    max-height: 200px;
+    max-width: 250px;
   }
 }
 
