@@ -1,7 +1,0 @@
-origin,0,1,2,3,4,5,6,7,8,9
-awfuleverything.csv ,avoid,avoid,arrest,avoid,daughter,avoid,order,daughter,avoid,order
-awfuleverything.csv ,order,order,attempt,order,arrest,order,arrest,order,order,avoid
-awfuleverything.csv ,woman,attempt,avoid,attempt,order,woman,attempt,woman,woman,woman
-awfuleverything.csv ,attempt,daughter,daughter,woman,woman,attempt,daughter,arrest,daughter,daughter
-awfuleverything.csv ,daughter,woman,woman,arrest,avoid,arrest,woman,avoid,arrest,attempt
-awfuleverything.csv ,arres,arres,orde,daughte,attemp,daughte,avoi,attemp,attemp,arres

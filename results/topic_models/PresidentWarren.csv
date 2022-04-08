@@ -1,8 +1,0 @@
-origin,0,1,2,3,4,5,6,7,8,9
-Democrats2020.csv ,app,vote,app,work,alpha,vote,alpha,app,alpha,app
-Democrats2020.csv ,course,alpha,vote,app,course,alpha,even,alpha,app,sure
-Democrats2020.csv ,vote,app,alpha,even,even,app,sure,course,sure,course
-Democrats2020.csv ,even,work,work,alpha,sure,course,vote,even,course,vote
-Democrats2020.csv ,sure,course,course,course,work,sure,app,sure,even,alpha
-Democrats2020.csv ,work,even,even,sure,app,work,course,vote,vote,even
-Democrats2020.csv ,alph,sur,sur,vot,vot,eve,wor,wor,wor,wor
