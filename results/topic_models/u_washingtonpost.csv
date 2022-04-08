@@ -1,0 +1,9 @@
+origin,0,1,2,3,4,5,6,7,8,9
+badgovnofreedom.csv ,reposte,reposte,reposte,article,reposte,reposte,reposte,reposte,information,reposte
+badgovnofreedom.csv ,article,article,article,reposte,article,article,article,article,release,article
+badgovnofreedom.csv ,classified,reason,classified,reason,reason,classified,classified,classified,want,reason
+badgovnofreedom.csv ,reason,classified,president,classified,classified,reason,reason,reason,president,classified
+badgovnofreedom.csv ,president,president,information,information,president,release,president,president,classified,release
+badgovnofreedom.csv ,want,release,reason,want,want,want,information,release,reason,want
+badgovnofreedom.csv ,information,want,release,president,information,president,want,information,reposte,information
+badgovnofreedom.csv ,releas,informatio,wan,releas,releas,informatio,releas,wan,articl,presiden

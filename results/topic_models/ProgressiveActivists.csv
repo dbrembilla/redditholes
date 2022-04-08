@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+1984isreality.csv ,mere,mere,already,constitution,already,constitution,treat,crisis,already,constitution
+1984isreality.csv ,already,already,constitution,treat,constitution,already,constitution,suspend,constitution,treat
+1984isreality.csv ,treat,treat,mere,already,suggestion,treat,already,fund,suggestion,suggestion
+1984isreality.csv ,suggestion,constitution,treat,suggestion,mere,suggestion,suggestion,health,mere,already
+1984isreality.csv ,constitution,suggestion,suspend,mere,pandemic,suspend,mere,right,healthcare,suspend
+1984isreality.csv ,decide,civil,suggestion,civil,treat,mere,suspend,light,treat,pandemic
+1984isreality.csv ,pandemic,healthcare,civil,healthcare,health,healthcare,civil,pandemic,civil,healthcare
+1984isreality.csv ,crisis,health,crisis,health,healthcare,civil,healthcare,civil,decide,mere
+1984isreality.csv ,healthcare,decide,decide,decide,decide,right,decide,decide,fund,health
+1984isreality.csv ,healt,fun,healt,fun,civi,decid,healt,healthcar,ligh,decid

@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+AmericanPolitics.csv ,congressional,congressional,disband,congressional,ponder,support,congressional,congressional,power,step
+AmericanPolitics.csv ,disband,disband,nice,disband,congressional,congressional,disband,disband,disband,nice
+AmericanPolitics.csv ,generally,generally,ponder,generally,disband,disband,measure,generally,ponder,big
+AmericanPolitics.csv ,ponder,measure,see,measure,generally,generally,nice,ponder,measure,support
+AmericanPolitics.csv ,power,ponder,support,ponder,power,measure,ponder,power,see,generally
+AmericanPolitics.csv ,see,see,congressional,power,see,nice,power,see,congressional,congressional
+AmericanPolitics.csv ,support,nice,generally,support,measure,ponder,generally,big,generally,see
+AmericanPolitics.csv ,measure,power,measure,see,nice,power,see,measure,support,measure
+AmericanPolitics.csv ,nice,step,power,step,step,step,step,nice,big,ponder
+AmericanPolitics.csv ,ste,bi,ste,bi,bi,se,bi,ste,nic,disban
