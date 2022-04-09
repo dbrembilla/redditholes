@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+bag_o_news ,log,rule,rule,header,app,behind,rule,rule,mitigation,rule
+bag_o_news ,probably,bypass,log,log,log,azure,app,app,think,app
+bag_o_news ,header,app,bypass,probably,rule,auth,log,place,base,place
+bag_o_news ,unusual,place,place,example,soon,application,soon,pass,update,auth
+bag_o_news ,though,log,app,somewhere,application,gateway,place,log,prevent,log
+bag_o_news ,session,application,web,trigger,gateway,pass,bypass,application,fluid,soon
+bag_o_news ,user,soon,probably,far,think,app,application,mitigation,remove,probably
+bag_o_news ,pattern,gateway,easily,patch,pass,bypass,pass,bypass,situation,time
+bag_o_news ,application,pass,decode,associate,bypass,rule,probably,go,read,pass
+bag_o_news ,bogu,mitigatio,encod,luckil,tim,plac,aut,gatewa,rc,bypas
