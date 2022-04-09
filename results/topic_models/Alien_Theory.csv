@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+classified ,alcoholic,agent,alcoholic,alcoholic,alcoholic,credibility,alcoholic,alcoholic,become,alcoholic
+classified ,agent,ex,agent,agent,agent,way,agent,agent,guess,agent
+classified ,guess,thing,guess,guess,guess,lend,guess,guess,alcoholic,guess
+classified ,become,always,become,become,thing,lazy,become,always,agent,always
+classified ,thing,alcoholic,always,always,become,disinformation,always,become,thing,become
+classified ,always,guess,thing,ex,always,alcoholic,ex,thing,always,thing
+classified ,ex,become,lazy,lazy,lazy,agent,thing,disinformation,lazy,ex
+classified ,lazy,disinformation,disinformation,thing,ex,guess,lazy,ex,disinformation,disinformation
+classified ,disinformation,lazy,ex,lend,disinformation,always,disinformation,way,ex,lend
+classified ,len,credibilit,len,wa,len,becom,wa,len,len,laz
