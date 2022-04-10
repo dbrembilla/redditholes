@@ -632,7 +632,7 @@ section {
 .flip-card-back {
   overflow-y: scroll;
   -ms-overflow-style: none; /* for Internet Explorer, Edge */
-    scrollbar-width: none;
+  scrollbar-width: none;
 }
 
 .flip-card-back::-webkit-scrollbar {
