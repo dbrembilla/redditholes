@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+craftofintelligence ,officer,military,military,military,force,remove,force,chinese,execute,force
+craftofintelligence ,military,chinese,force,chinese,chinese,officer,officer,force,traitor,chinese
+craftofintelligence ,troop,say,chinese,officer,officer,force,chinese,officer,reason,officer
+craftofintelligence ,force,communist,officer,force,military,chinese,military,military,remove,military
+craftofintelligence ,chinese,spy,troop,say,troop,military,troop,weapon,say,troop
+craftofintelligence ,say,wet,say,even,say,troop,say,even,communist,say
+craftofintelligence ,analyst,water,even,troop,taiwanese,say,demoralize,say,chinese,rank
+craftofintelligence ,confidence,taiwan,island,high,agent,espionage,island,troop,military,weapon
+craftofintelligence ,even,force,high,accord,confidence,even,confidence,underground,taiwan,analyst
+craftofintelligence ,ran,office,wel,weapo,retir,invasio,wel,invasio,sp,demoraliz
