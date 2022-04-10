@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+Cyberpunk ,gps,drone,drone,path,retrace,path,signal,drone,drone,gps
+Cyberpunk ,make,signal,signal,drone,path,signal,drone,path,indoor,signal
+Cyberpunk ,retrace,retrace,com,retrace,receive,receive,path,gps,navigation,drone
+Cyberpunk ,path,make,fire,signal,gps,drone,gps,receive,dji,path
+Cyberpunk ,receive,gps,comment,gps,signal,use,receive,good,enough,retrace
+Cyberpunk ,drone,receive,reddit,receive,drone,good,retrace,signal,flow,use
+Cyberpunk ,signal,path,use,make,feel,gps,feel,retrace,ideal,receive
+Cyberpunk ,worth,good,gps,use,use,retrace,make,use,capable,good
+Cyberpunk ,use,illegal,receive,feel,make,worth,good,make,sensor,make
+Cyberpunk ,goo,us,fl,goo,imagin,fee,us,fee,optica,fee
