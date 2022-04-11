@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+newsokur ,何回揺れるねん,何回揺れるねん,何回揺れるねん,gig,何回揺れるねん,何回揺れるねん,おっはいふるんふるんした,何回揺れるねん,contact,おっはいふるんふるんした
+newsokur ,おっはいふるんふるんした,おっはいふるんふるんした,おっはいふるんふるんした,初期微動はぁはぁ,おっはいふるんふるんした,おっはいふるんふるんした,何回揺れるねん,おっはいふるんふるんした,compose,何回揺れるねん
+newsokur ,初期微動はぁはぁ,初期微動はぁはぁ,初期微動はぁはぁ,何回揺れるねん,初期微動はぁはぁ,初期微動はぁはぁ,初期微動はぁはぁ,初期微動はぁはぁ,question,gig
+newsokur ,gig,gig,gig,おっはいふるんふるんした,gig,gig,gig,gig,perform,初期微動はぁはぁ
+newsokur ,bot,action,concern,automatically,bot,action,concern,perform,newsokuvip,question
+newsokur ,message,bot,perform,bot,contact,bot,bot,bot,moderator,perform
+newsokur ,question,concern,automatically,concern,concern,concern,perform,action,message,contact
+newsokur ,perform,moderator,message,newsokuvip,compose,message,newsokuvip,concern,subreddit,subreddit
+newsokur ,newsokuvip,question,compose,question,subreddit,newsokuvip,compose,message,action,concern
+newsokur ,compos,perfor,contac,perfor,perfor,compos,contac,compos,automaticall,bo

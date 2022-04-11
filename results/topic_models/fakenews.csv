@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+media_criticism ,article,article,lot,article,headline,article,article,news,article,opinion
+media_criticism ,say,opinion,text,guardian,article,fake,opinion,fake,remove,article
+media_criticism ,reference,greenwald,s,point,greenwald,fact,greenwald,mistake,edit,s
+media_criticism ,point,completely,content,falsehood,guardian,greenwald,completely,article,exact,completely
+media_criticism ,s,s,say,fake,jacob,headline,s,guardian,criticism,quote
+media_criticism ,lot,false,article,thing,assange,quote,interview,journalism,reference,greenwald
+media_criticism ,guardian,direct,point,actually,quite,say,call,happen,point,find
+media_criticism ,content,headline,reference,edit,narrative,assange,standard,real,fake,yet
+media_criticism ,fake,guardian,edit,whine,give,guard,quote,correction,fact,guardian
+media_criticism ,correc,quot,guardia,stor,intercep,fals,headlin,trut,greenwal,headlin
