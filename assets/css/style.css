@@ -1132,3 +1132,18 @@ section {
   font-size: 13px;
   color: #f15641;
 }
+
+.hide{
+  display: none !important;
+}
+
+.display{
+  display: block !important;
+}
+
+.network{
+  overflow: scroll;
+  margin: 5% 10% 5% 10%;
+  width: 80% !important;
+  height: 35em !important;
+}
