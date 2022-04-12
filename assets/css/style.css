@@ -1172,8 +1172,10 @@ section {
   padding: 40px;
 }
 
-#sigma-container {
-  max-width: 800px;
-  height: 800px;
-  margin: auto;
+#graph-container {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
 }
