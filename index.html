@@ -25,8 +25,10 @@
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <script src="sigma.min.js"></script>
-  <script src="plugins/sigma.parsers.json.min.js"></script>
+  <!-- Sigmascripts -->
+  <script src="assets/js/build/sigma.min.js"></script>
+  <script src="assets/js/build/plugins/sigma.parsers.json.min.js"></script>
+
 
   <script src="assets/js/myjs.js"></script>
 
@@ -242,50 +244,9 @@
         <div class="hole hide" id="hole_1">
           <div class="row gx-0">
             <div class="col-lg-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <div id="sigma-container"></div>
-            <script>
-              // these are just some preliminary settings 
-                  var g = {
-                      nodes: [],
-                      edges: []
-                  };
-
-                // Create new Sigma instance in graph-container div (use your div name here) 
-                s = new sigma({
-                graph: g,
-                container: 'sigma-container',
-                renderer: {
-                  container: document.getElementById('sigma-container'),
-                  type: 'canvas'
-                },
-                settings: {
-                  minNodeSize: 8,
-                  maxNodeSize: 16
-                }
-                });
-
-                // first you load a json with (important!) s parameter to refer to the sigma instance   
-
-                sigma.parsers.json(
-                      'results/networks/Network_1_bitcoins.json',
-                      s,
-                      function() {
-                          // this below adds x, y attributes as well as size = degree of the node 
-                          var i,
-                                  nodes = s.graph.nodes(),
-                                  len = nodes.length;
-
-                          for (i = 0; i < len; i++) {
-                              nodes[i].size = s.graph.degree(nodes[i].id);
-                              nodes[i].color = nodes[i].center ? '#333' : '#666';
-                          }
-
-                          // Refresh the display:
-                          s.refresh();
-                      }
-                );
-                          
-            </script>
+            <div id="graph-container">
+              
+            </div>
             </div>
             <div class="col-lg-7 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
               <div class="content">
