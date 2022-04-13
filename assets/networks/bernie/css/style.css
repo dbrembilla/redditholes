@@ -174,7 +174,7 @@ font-size:14px;
 
 .left-close {
 background-image: url('../images/fancybox_sprite.png');
-margin-left:-37px;
+margin: 2%;
 z-index:99999;
 cursor: pointer;
 padding-left:31px;

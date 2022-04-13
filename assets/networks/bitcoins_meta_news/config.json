@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "redditHoles"
+  },
+  "text": {
+    "more": "It is possible to identify a a central grouping of subreddits regarding mainly reddit itself, news or information connected to \ntechnology and similar topics in a broader sense. From this central conglomerate stem the isolated community of Bitcoins, HongKong, \nand similar: this network is highly centralized but nonetheless is able to form bridges for other communities to connect.",
+    "intro": "This subnetworks connects actuality news, bitcoins and crypto subreddits and subreddits about reddits events or contents.\nIt is also connected, through news channels, to Conspiracy II.",
+    "title": "Bitcoins, News and MetaReddit"
+  },
+  "legend": {
+    "edgeLabel": "Crosspost",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Subreddit"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

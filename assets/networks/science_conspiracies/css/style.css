@@ -174,7 +174,7 @@ font-size:14px;
 
 .left-close {
 background-image: url('../images/fancybox_sprite.png');
-margin: 2%;
+margin: 2%;;
 z-index:99999;
 cursor: pointer;
 padding-left:31px;
@@ -482,8 +482,8 @@ display: none;
 #zoom .z {
 	background:#fff;
 	background-color:rgba(255,255,255,0.7);
-	width: 3em;
-	height: 3em;
+	width: 60px;
+	height: 60px;
 	cursor: pointer;
 	border:1px solid #ccc;
 	float:left;
