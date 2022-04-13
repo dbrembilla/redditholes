@@ -352,17 +352,11 @@ background-position: 200px -8px;
 	border: 1px solid 
 	#999;
 	padding: 6px;
-	height: 150px;
-	width: 226px;
-	overflow-y: scroll;
-	overflow-x: hidden;
 	background-color: #999;
 	/*position: relative;
 		left: 240px;
 		bottom: 164px;*/
 	position:absolute;
-	margin-left: 240px;
-	margin-top:-164px;
 	color: white;
 }	
 
