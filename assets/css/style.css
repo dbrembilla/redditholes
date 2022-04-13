@@ -1141,14 +1141,11 @@ section {
   display: block !important;
 }
 
-.hole{
-  margin: 2% 5% 2% 5%;
-}
-
 .hole .content {
   border-top: solid 3px #000000;
   border-bottom: solid 3px #000000;
-  padding: 40px;
+  padding: 5%;
+  margin:2%;
 }
 .hole h3 {
   font-size: 25px;
@@ -1183,4 +1180,12 @@ section {
 
 .hole span{
   font-weight: 700;
+}
+
+.detached{
+  margin: 0 5% 5% 5%;
+}
+
+.container-frame{
+  min-height: 500px;
 }
