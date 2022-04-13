@@ -20,3 +20,8 @@ function visualize_section(section_name, section_class){
         document.getElementById(section_name).classList.remove("display");
     }  
 }
+
+function callReddit (text){
+    window.open("https://www.reddit.com/r/"+text+"/");
+  }
+  

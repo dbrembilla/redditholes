@@ -1172,3 +1172,15 @@ section {
   padding-top: 2em;
   padding-bottom: 2em;
 }
+
+.hole a{
+  color:#f15641 !important;
+}
+
+.hole a:hover{
+  cursor:pointer;
+}
+
+.hole span{
+  font-weight: 700;
+}
