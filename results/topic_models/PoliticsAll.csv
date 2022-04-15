@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+AmericanPolitics.csv ,comment,comment,comment,comment,comment,comment,comment,comment,comment,comment
+AmericanPolitics.csv ,start,link,the_donald,author,event,discussion,start,original,action,original
+AmericanPolitics.csv ,thread,event,start,event,action,event,event,action,the_donald,the_donald
+AmericanPolitics.csv ,com,the_donald,author,the_donald,reddit,link,the_donald,the_donald,data,event
+AmericanPolitics.csv ,data,action,original,action,link,action,action,data,start,start
+AmericanPolitics.csv ,discussion,start,event,start,the_donald,com,data,start,reddit,reddit
+AmericanPolitics.csv ,author,original,reddit,original,start,start,original,reddit,original,action
+AmericanPolitics.csv ,link,com,action,com,thread,original,com,event,event,link
+AmericanPolitics.csv ,original,discussion,com,discussion,original,the_donald,discussion,discussion,com,com
+AmericanPolitics.csv ,reddi,reddi,dat,reddi,autho,dat,reddi,lin,discussio,dat

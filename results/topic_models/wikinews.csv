@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+neutralnews.csv ,rule,rule,rule,rule,rule,comment,rule,rule,rule,rule
+neutralnews.csv ,far,autotldr,com,company,com,autotldr,constructive,repeal,feedback,com
+neutralnews.csv ,welcome,consumer,autotldr,consumer,company,feedback,company,company,agency,comment
+neutralnews.csv ,electricity,company,reddit,reddit,comment,network,profitable,profitable,repeal,consumer
+neutralnews.csv ,reddit,comment,consumer,comment,reddit,reddit,reddit,reddit,reddit,company
+neutralnews.csv ,phone,reddit,comment,autotldr,consumer,online,repeal,electricity,experience,reddit
+neutralnews.csv ,consumer,com,company,neutrality,broadband,consumer,online,pass,consumer,autotldr
+neutralnews.csv ,feedback,online,net,com,repeal,http,feedback,online,internet,feedback
+neutralnews.csv ,net,net,http,feedback,http,net,consumer,consumer,http,repeal
+neutralnews.csv ,neutralit,repea,neutralit,onlin,feedbac,neutralit,pla,feedbac,dr,onlin

@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+AmericanPolitics.csv ,story,exclusive,exclusive,exclusive,exclusive,exclusive,exclusive,let,let,exclusive
+AmericanPolitics.csv ,worth,let,see,see,see,see,see,exclusive,see,see
+AmericanPolitics.csv ,sure,see,story,story,story,let,let,see,exclusive,let
+AmericanPolitics.csv ,azcentral,story,let,let,let,story,story,story,story,story
+AmericanPolitics.csv ,com,post,news,local,local,post,category,post,worth,general
+AmericanPolitics.csv ,hearing,general,local,post,news,local,post,general,category,post
+AmericanPolitics.csv ,news,category,sure,news,post,news,sure,category,hearing,news
+AmericanPolitics.csv ,post,news,general,general,general,general,general,news,post,sure
+AmericanPolitics.csv ,general,azcentral,hearing,category,category,azcentral,local,com,local,azcentral
+AmericanPolitics.csv ,categor,co,azcentra,azcentra,azcentra,categor,hearin,wort,genera,co

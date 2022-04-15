@@ -1,0 +1,8 @@
+origin,0,1,2,3,4,5,6,7,8,9
+1984isreality.csv ,assault,allegation,allegation,assault,sexual,allegation,allegation,assault,allegation,assault
+1984isreality.csv ,allegation,assault,assault,sexual,allegation,assault,assault,allegation,assault,allegation
+1984isreality.csv ,sexual,sexual,sexual,allegation,assault,read,sexual,sexual,sexual,controversy
+1984isreality.csv ,controversy,read,read,firestorm,controversy,sexual,controversy,ignite,controversy,ignite
+1984isreality.csv ,firestorm,controversy,controversy,controversy,firestorm,controversy,firestorm,controversy,ignite,read
+1984isreality.csv ,ignite,firestorm,firestorm,ignite,ignite,ignite,ignite,firestorm,read,sexual
+1984isreality.csv ,rea,ignit,ignit,rea,rea,firestor,rea,rea,firestor,firestor

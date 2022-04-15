@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+AmericanPolitics.csv ,lead,hard,lead,lead,mask,gun,unvaccinated,hard,mostly,hard
+AmericanPolitics.csv ,hard,kid,hard,unvaccinated,school,worry,worry,worry,lead,unvaccinated
+AmericanPolitics.csv ,kid,interesting,unvaccinated,worry,send,spot,lead,interesting,hard,interesting
+AmericanPolitics.csv ,unvaccinated,lead,worry,spot,unvaccinated,hard,hard,lead,unvaccinated,spot
+AmericanPolitics.csv ,worry,gun,spot,school,interesting,lead,interesting,unvaccinated,worry,lead
+AmericanPolitics.csv ,spot,spot,interesting,kid,kid,school,kid,spot,spot,kid
+AmericanPolitics.csv ,mostly,worry,mostly,hard,mostly,interesting,spot,kid,interesting,send
+AmericanPolitics.csv ,gun,mostly,gun,interesting,lead,mostly,gun,school,gun,mostly
+AmericanPolitics.csv ,send,unvaccinated,school,mostly,spot,unvaccinated,mostly,gun,school,worry
+AmericanPolitics.csv ,mas,sen,ki,gu,har,ki,sen,sen,ki,gu

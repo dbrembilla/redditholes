@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+AmericanPolitics.csv ,wing,wing,wing,wing,wing,wing,otherwise,wing,wing,wing
+AmericanPolitics.csv ,assume,white,white,white,never,never,assume,never,conservative,never
+AmericanPolitics.csv ,white,never,alleged,never,shut,white,alleged,assume,false,assume
+AmericanPolitics.csv ,bomber,alleged,assume,assume,assume,m,bomber,shut,flag,alleged
+AmericanPolitics.csv ,m,assume,bomber,left,white,assume,m,alleged,protest,m
+AmericanPolitics.csv ,never,bomber,shut,alleged,alleged,left,never,m,perpetrate,bomber
+AmericanPolitics.csv ,left,shut,never,shut,m,alleged,shut,bomber,left,white
+AmericanPolitics.csv ,shut,m,m,m,bomber,bomber,white,white,leave,left
+AmericanPolitics.csv ,radical,radical,flag,bomber,protest,shut,wing,left,radical,shut
+AmericanPolitics.csv ,protes,lef,lef,leav,radica,violenc,violenc,protes,illegitimat,violenc

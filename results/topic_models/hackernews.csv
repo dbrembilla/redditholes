@@ -1,0 +1,11 @@
+origin,0,1,2,3,4,5,6,7,8,9
+1984isreality.csv ,comment,comment,com,comment,comment,com,comment,com,com,com
+1984isreality.csv ,d,d,d,d,d,comment,feel,comment,d,item
+1984isreality.csv ,i,feel,free,discussion,hacker,d,free,d,feel,comment
+1984isreality.csv ,item,hacker,item,feel,item,discussion,hacker,discussion,hacker,d
+1984isreality.csv ,com,item,comment,hacker,com,feel,i,hacker,i,discussion
+1984isreality.csv ,discussion,com,ycombinator,i,discussion,free,com,i,item,feel
+1984isreality.csv ,feel,discussion,feel,item,feel,i,d,item,comment,free
+1984isreality.csv ,free,free,hacker,com,free,ycombinator,discussion,feel,discussion,hacker
+1984isreality.csv ,hacker,i,i,well,i,well,item,free,ycombinator,i
+1984isreality.csv ,wel,wel,wel,fre,wel,hacke,wel,wel,fre,wel
