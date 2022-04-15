@@ -39,7 +39,7 @@ img{
 # Sections
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 40px;
   overflow: hidden;
 }
 
@@ -365,7 +365,7 @@ section {
 .about .content {
   border-top: solid 3px #000000;
   border-bottom: solid 3px #000000;
-  padding: 40px;
+  padding: 40px 0 40px 40px;
 }
 .about h3 {
   font-size: 25px;
@@ -1188,6 +1188,10 @@ section {
 
 .detached{
   margin: 0 5% 5% 5%;
+}
+
+.closer{
+  margin-top: -5em !important;
 }
 
 .container-frame{
