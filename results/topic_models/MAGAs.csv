@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,com,com,democracy,follow,follow,experiment,democracy,dead,dead,com
-AmericanPolitics.csv ,call,call,earth,democracy,democracy,end,mnkind,democracy,democracy,comment
-AmericanPolitics.csv ,donation,resurface,end,human,dead,follow,follow,earth,earth,arrest
-AmericanPolitics.csv ,arrest,autotldr,experiment,end,mnkind,human,earth,mnkind,human,autotldr
-AmericanPolitics.csv ,comment,donation,follow,experiment,human,dead,end,follow,follow,resurface
-AmericanPolitics.csv ,autotldr,arrest,human,dead,end,earth,experiment,end,mnkind,reddit
-AmericanPolitics.csv ,reddit,reddit,mnkind,mnkind,experiment,democracy,human,experiment,end,donation
-AmericanPolitics.csv ,grow,comment,dead,earth,earth,mnkind,dead,human,experiment,call
-AmericanPolitics.csv ,resurface,grow,donation,resurface,com,com,resurface,com,call,http
-AmericanPolitics.csv ,rall,rall,reddi,co,righ,donatio,commen,feedbac,co,feedbac
+version https://git-lfs.github.com/spec/v1
+oid sha256:50c5ab438879b3ede57e54ee7345d3ec091d8944e59a355e2acb24d01345f8e6
+size 946

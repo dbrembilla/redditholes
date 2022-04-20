@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-mcX ,flash,cpu,open,work,framework,pin,nice,coreboot,pin,firmware
-mcX ,fishstik,great,source,way,light,nice,development,development,pogger,hardware
-mcX ,build,ryzen,firmware,feel,sleep,short,wait,get,short,due
-mcX ,fry,mainly,bio,chip,awesome,pogger,save,framework,nice,term
-mcX ,github,front,laptop,look,laptop,s,buy,future,framework,community
-mcX ,idea,option,want,place,coreboot,wait,still,news,wait,adjacent
-mcX ,non,wait,proprietary,fresh,d,spacial,well,forward,totally,m
-mcX ,feasible,nice,goal,first,get,framework,exciting,amazing,development,knowledge
-mcX ,untested,pin,uefi,excite,nice,cpu,spacial,article,cpu,benefit
-mcX ,powe,shor,framewor,enjo,differen,totall,,loo,,ofte
+version https://git-lfs.github.com/spec/v1
+oid sha256:85c2da2de9546a7af863a5b0a17dad30e0da78d93e06c761f5ff51d56009f4ee
+size 721

@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-misc ,cat,tend,cat,cat,want,adorable,feral,purebre,description,pet
-misc ,feral,adorable,breed,boop,cat,fucken,breed,cat,physical,animal
-misc ,boop,say,selkirk,feral,boop,s,someone,feral,almost,human
-misc ,breed,case,face,breed,feral,cat,grumpy,s,book,rex
-misc ,face,alike,sweet,s,breed,breed,got,look,exact,sure
-misc ,selkirk,time,alternate,want,pompous,boop,cat,moggy,representation,look
-misc ,want,think,adopt,pompous,adorable,feral,boop,term,feral,mix
-misc ,adorable,animal,start,look,selkirk,want,face,clearly,cat,boop
-misc ,fucken,look,retire,adorable,look,pompous,want,maybe,boop,selkirk
-misc ,,pe,prett,selkir,,loo,selkir,domesticat,bree,ca
+version https://git-lfs.github.com/spec/v1
+oid sha256:becbad82230889ec0f2d4e11841882fa27df3f71a03e718b77462655651be4a6
+size 686

@@ -1,21 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-NorthCarolina4Sanders ,register,register,want,register,register,register,stop,register,register,re
-NorthCarolina4Sanders ,primary,primary,march,primary,primary,primary,check,primary,primary,going
-NorthCarolina4Sanders ,election,election,try,right,election,election,triangle,election,address,time
-NorthCarolina4Sanders ,address,change,sniff,election,office,change,month,change,local,decide
-NorthCarolina4Sanders ,change,local,see,vote,registration,need,voting,address,office,know
-NorthCarolina4Sanders ,local,right,independent,mid,change,address,early,right,election,already
-NorthCarolina4Sanders ,need,need,hair,term,need,state,end,debate,registration,well
-NorthCarolina4Sanders ,registration,address,debate,need,address,office,well,office,vote,pretty
-NorthCarolina4Sanders ,right,state,state,address,term,local,registration,registration,need,mean
-NorthCarolina4Sanders ,offic,registratio,loca,chang,righ,righ,registe,stat,righ,libertaria
-NorthCarolina4Sanders ,election,state,primary,strong,voting,late,treasurer,check,primary,want
-NorthCarolina4Sanders ,primary,vote,state,case,early,primary,think,stop,re,see
-NorthCarolina4Sanders ,term,big,determine,make,day,reregister,public,voting,libertarian,debate
-NorthCarolina4Sanders ,vote,dozen,election,late,still,election,president,well,right,independent
-NorthCarolina4Sanders ,mid,impeachment,general,register,vote,case,governor,early,m,sniff
-NorthCarolina4Sanders ,register,weird,major,primary,stop,register,instruction,triangle,register,try
-NorthCarolina4Sanders ,right,pussy,mention,state,option,make,primary,end,decide,hair
-NorthCarolina4Sanders ,late,woman,big,time,late,time,commissioner,month,come,register
-NorthCarolina4Sanders ,time,still,s,vote,primary,state,include,registration,matter,address
-NorthCarolina4Sanders ,mak,see,nomine,electio,electio,vot,lat,alway,candidat,nee
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bfbefd8bab0f7f7560a1994bb7197e4e64ffe700c89c8356ac44fdaaada5543
+size 1883

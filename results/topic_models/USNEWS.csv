@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,company,company,company,company,company,company,company,company,company,company
-1984isreality.csv ,com,com,autotldr,com,com,reddit,com,com,com,com
-1984isreality.csv ,http,reddit,com,reddit,theverge,feedback,comment,coronavirus,comment,feedback
-1984isreality.csv ,comment,comment,reddit,autotldr,summary,hold,illegal,part,reddit,http
-1984isreality.csv ,autotldr,http,comment,http,coronavirus,encryption,coronavirus,theverge,http,reddit
-1984isreality.csv ,reddit,autotldr,http,coronavirus,start,http,tl,feedback,feedback,comment
-1984isreality.csv ,coronavirus,content,feedback,comment,feedback,coronavirus,feedback,start,autotldr,autotldr
-1984isreality.csv ,feedback,coronavirus,coronavirus,feedback,group,content,user,encryption,coronavirus,content
-1984isreality.csv ,content,feedback,content,content,consumer,pandemic,http,reduce,content,coronavirus
-1984isreality.csv ,pas,proposa,giv,theverg,htt,fre,reddi,ide,use,ww
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a8c9ee350901ddc1b5223e3faaa4be62e1e2715a9896a02ae736086f7fb414f
+size 975

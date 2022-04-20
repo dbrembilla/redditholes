@@ -1,10 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,delete,delete,delete,delete,delete,delete,delete,delete,hillbilly,much
-1984isreality.csv ,fallout,pretty,fallout,pretty,pretty,bunch,pretty,fallout,state,lore
-1984isreality.csv ,lore,fallout,lore,bunch,fallout,fallout,fallout,pretty,surprise,fallout
-1984isreality.csv ,pretty,bunch,hillbilly,state,hillbilly,state,bunch,state,bunch,pretty
-1984isreality.csv ,bunch,hillbilly,pretty,fallout,bunch,lore,hillbilly,lore,delete,delete
-1984isreality.csv ,state,much,bunch,surprise,much,pretty,lore,surprise,fallout,state
-1984isreality.csv ,surprise,state,state,lore,state,hillbilly,state,bunch,lore,bunch
-1984isreality.csv ,much,surprise,surprise,hillbilly,surprise,surprise,surprise,hillbilly,pretty,surprise
-1984isreality.csv ,hillbill,lor,muc,muc,lor,muc,muc,muc,muc,hillbill
+version https://git-lfs.github.com/spec/v1
+oid sha256:46975edc3caea4cf43561720093c4e89a1adae7f7e359a07eb491a3e59b3a82c
+size 828

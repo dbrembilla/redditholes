@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-trees ,tree,smoke,tree,crossposte,tree,tree,capybara,say,tree,tree
-trees ,hope,weed,hope,hope,dog,dog,high,book,dog,dog
-trees ,crossposte,dog,dog,tree,hope,hope,dog,dog,crossposte,gold
-trees ,gold,tree,crossposte,originally,crossposte,gold,tree,tree,hope,crossposte
-trees ,dog,hope,gold,exact,gold,crossposte,gold,gold,gold,hope
-trees ,haha,gold,weed,comment,smoke,weed,hope,crossposte,weed,weed
-trees ,look,crossposte,capybara,repeat,weed,capybara,crossposte,hope,book,capybara
-trees ,good,high,say,post,capybara,high,weed,weed,high,high
-trees ,weed,capybara,high,gold,high,say,book,high,capybara,book
-trees ,hig,goo,hah,do,sa,goo,hah,capybar,goo,sa
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb142e8f55c9b50f0465c370d78200711352bdea7bf7ace5c131ae8cf350823
+size 689

@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-business ,give,road,give,give,revive,give,dead,ceo,give,pretty
-business ,toy,already,toy,already,wish,toy,give,fuck,toy,much
-business ,dead,give,already,lol,probably,already,toy,sell,already,original
-business ,already,toy,road,toy,half,dead,already,scam,dead,plan
-business ,road,dead,dead,dead,circuit,road,road,say,road,value
-business ,lol,say,lol,road,city,lol,lol,give,lol,brand
-business ,say,lol,scam,scam,luck,say,say,toy,scam,expectation
-business ,scam,scam,say,say,still,scam,fuck,already,fuck,typical
-business ,ceo,fuck,sell,sell,stance,ceo,scam,road,sell,baked
-business ,fuc,sel,fuc,fuc,goo,fuc,sel,dea,ce,thin
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5dedef2af4b99cd86afccefafb96617e9a5dc50b94fe6c977f86e2c13fe472
+size 658

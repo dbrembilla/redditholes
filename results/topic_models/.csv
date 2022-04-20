@@ -1,29 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-RIPpolitics.csv ,common,common,release,common,really,common,common,work,really,release
-RIPpolitics.csv ,outcome,outcome,outcome,outcome,outcome,outcome,outcome,knowledge,outcome,outcome
-RIPpolitics.csv ,work,work,effect,work,work,think,work,late,work,effect
-RIPpolitics.csv ,release,really,knowledge,release,think,release,think,mean,think,knowledge
-RIPpolitics.csv ,really,amount,work,really,release,really,release,common,superpower,work
-RIPpolitics.csv ,world,knowledge,mean,amount,amount,amount,amount,really,amount,mean
-RIPpolitics.csv ,effect,effect,common,effect,common,effect,knowledge,release,knowledge,common
-RIPpolitics.csv ,mean,think,think,knowledge,knowledge,mean,mean,think,late,think
-RIPpolitics.csv ,knowledge,release,amount,superpower,world,knowledge,effect,outcome,effect,amount
-RIPpolitics.csv ,superpowe,mea,superpowe,mea,mea,wor,superpowe,amoun,worl,superpowe
-,0,1,2,3,4,5,6,7,8,9,origin
-0,minute,work,accept,know,big,delete,money,work,piece,bezo,AntiAmazon.csv 
-1,million,wealth,janitor,worker,lex,big,make,big,garbage,need,AntiAmazon.csv 
-2,make,easy,think,want,delete,lex,fucking,life,lex,coach,AntiAmazon.csv 
-3,philosophy,break,act,dish,easy,easy,complain,narcissist,big,totally,AntiAmazon.csv 
-4,easy,piss,person,go,say,live,man,comply,delete,laborer,AntiAmazon.csv 
-5,bet,sound,master,s,live,say,stop,ever,easy,d,AntiAmazon.csv 
-6,re,much,behalf,wash,piece,work,peasant,live,live,consider,AntiAmazon.csv 
-7,live,get,live,minute,garbage,garbage,company,make,work,freak,AntiAmazon.csv 
-8,lot,wage,life,set,the_circle,piece,time,company,say,s,AntiAmazon.csv 
-9,ce,fu,le,liv,i,minut,poin,tim,the_circl,sa,AntiAmazon.csv 
-,0,1,2,3,4,5,6,7,8,9,origin
-0,see,hate,hate,hate,hate,hate,hate,hate,hate,hate,Conservative.csv 
-1,hat,se,se,se,se,se,se,se,se,se,Conservative.csv 
-,0,1,2,3,4,5,6,7,8,9,origin
-0,typo,typo,typo,typo,typo,typo,typo,incest,typo,typo,HackBloc.csv 
-1,yep,yep,yep,incest,incest,incest,yep,yep,incest,yep,HackBloc.csv 
-2,inces,inces,inces,ye,ye,ye,inces,typ,ye,inces,HackBloc.csv 
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7b6d888d0965f5517b02047855d4d66fdb7a6503b4115fcd17e9db6438e047
+size 2074

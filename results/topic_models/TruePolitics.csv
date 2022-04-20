@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,rent,landlord,pay,rent,rent,rent,landlord,rent,pay,pay
-AmericanPolitics.csv ,pay,rent,landlord,landlord,pay,pay,pay,side,rent,rent
-AmericanPolitics.csv ,landlord,pay,rent,pay,total,landlord,rent,pay,total,side
-AmericanPolitics.csv ,line,person,side,pain,landlord,reason,actual,landlord,landlord,total
-AmericanPolitics.csv ,want,seem,person,story,line,side,eviction,line,seem,landlord
-AmericanPolitics.csv ,evict,reason,reason,total,person,line,seem,person,person,person
-AmericanPolitics.csv ,stand,pain,seem,evict,reason,ass,get,reason,reason,reason
-AmericanPolitics.csv ,story,side,pain,want,pain,person,state,pain,pain,pain
-AmericanPolitics.csv ,seem,total,total,evidence,seem,evidence,apartment,seem,tenant,seem
-AmericanPolitics.csv ,sid,stor,stor,sid,tenan,pai,absolutel,tota,stat,tenan
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf153f2dc23b2bd7bd1275b0f47638540cab209adf2e4243d102ea34144c31d5
+size 851

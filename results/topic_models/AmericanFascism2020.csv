@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,delete,delete,delete,delete,delete,delete,real,delete,delete,delete
-AmericanPolitics.csv ,enslave,iron,even,iron,enslave,iron,run,fall,iron,fall
-AmericanPolitics.csv ,reason,tyop,reason,play,president,even,person,show,show,tyop
-AmericanPolitics.csv ,iron,reason,president,reason,iron,show,play,reason,reason,show
-AmericanPolitics.csv ,fall,play,pay,person,fall,president,president,play,president,reason
-AmericanPolitics.csv ,even,person,iron,president,run,part,part,person,play,play
-AmericanPolitics.csv ,pay,part,fall,part,person,fall,reason,keyboard,act,iron
-AmericanPolitics.csv ,play,act,world,real,business,world,tyop,iron,keyboard,world
-AmericanPolitics.csv ,tyop,keyboard,business,tyop,care,enslave,show,world,world,business
-AmericanPolitics.csv ,busines,worl,enslav,sho,tyo,ru,lucrativ,curtai,fal,enslav
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa49211a1f5847109fc97a7aebcb9af77998b3f6b720ca19d113ea2b47b85ac
+size 872

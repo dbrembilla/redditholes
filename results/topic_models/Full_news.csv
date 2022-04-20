@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,government,oath,government,oath,oath,oath,government,government,government,government
-1984isreality.csv ,oath,government,oath,government,government,service,oath,oath,oath,oath
-1984isreality.csv ,service,different,service,service,agent,government,service,service,service,underlie
-1984isreality.csv ,thin,people,force,foreign,force,fundamental,support,different,agent,support
-1984isreality.csv ,leave,service,people,form,service,force,people,force,belief,constitution
-1984isreality.csv ,defend,form,defend,people,thin,different,need,defend,foreign,service
-1984isreality.csv ,force,thin,betraying,constitution,constitution,underlie,leave,fundamental,underlie,people
-1984isreality.csv ,betraying,support,fundamental,force,fundamental,betraying,fundamental,need,form,need
-1984isreality.csv ,people,betraying,support,thin,leave,constitution,different,form,fidelity,thin
-1984isreality.csv ,fidelit,fundamenta,nee,suppor,suppor,peopl,betraya,thi,fundamenta,leav
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed24fa9ea7c7a51799f31e3361847180d26af96583de653ffe16544bcd888586
+size 1011

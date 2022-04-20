@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-JoeRogan ,already,already,release,already,already,yet,already,already,fish,fish
-JoeRogan ,release,record,yet,record,release,record,release,release,park,release
-JoeRogan ,yet,release,record,yet,record,release,record,fish,writer,record
-JoeRogan ,record,yet,already,release,yet,already,yet,record,put,already
-JoeRogan ,fish,fish,fish,fish,fish,stick,mouth,yet,stick,yet
-JoeRogan ,stick,mouth,put,stick,mouth,fish,fish,stick,choke,mouth
-JoeRogan ,mouth,put,writer,park,choke,mouth,choke,park,mouth,stick
-JoeRogan ,put,stick,mouth,mouth,stick,put,put,mouth,already,put
-JoeRogan ,writer,choke,stick,put,put,choke,park,choke,yet,choke
-JoeRogan ,chok,write,chok,chok,write,par,stic,pu,releas,write
+version https://git-lfs.github.com/spec/v1
+oid sha256:76008bdde438d045e239acd92afcfbbe9aa99e5d1a0e94e11c7e0e5d0fd3a7b3
+size 728

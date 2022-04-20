@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,threat,right,wing,wing,wing,bomb,wing,bomb,right,wing
-AmericanPolitics.csv ,bomb,threat,bomb,threat,right,right,bomb,wing,wing,bomb
-AmericanPolitics.csv ,wing,bomb,threat,bomb,bomb,wing,threat,threat,bomb,want
-AmericanPolitics.csv ,right,wing,say,right,threat,view,say,right,threat,right
-AmericanPolitics.csv ,want,want,right,view,say,threat,right,ignore,ignore,view
-AmericanPolitics.csv ,reason,view,view,say,want,say,view,view,get,threat
-AmericanPolitics.csv ,say,say,reason,reason,view,want,theorist,say,plenty,say
-AmericanPolitics.csv ,view,reason,biden,biden,theorist,reason,reason,reason,biden,reason
-AmericanPolitics.csv ,guy,biden,ignore,lie,biden,biden,biden,biden,evidence,biden
-AmericanPolitics.csv ,theoris,li,gu,conspirac,reaso,li,ignor,gu,conspirac,ignor
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08972c9db07cb04ec50fbf671663ecf6f930d5617c9c1a3a12cf315b0a1c09e
+size 829

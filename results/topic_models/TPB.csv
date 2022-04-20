@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-technology ,s,count,count,guess,else,back,back,count,hence,count
-technology ,good,right,guess,count,link,guess,right,back,functional,guess
-technology ,fuck,guess,back,back,orange,count,count,guess,ashe,back
-technology ,face,ashe,right,right,bottom,right,guess,right,rise,right
-technology ,chance,back,rise,ashe,notice,ashe,notice,bottom,guess,functional
-technology ,also,rise,ashe,rise,guess,functional,bottom,orange,back,rise
-technology ,lol,bottom,bottom,notice,count,rise,functional,functional,count,bottom
-technology ,guess,also,notice,bottom,right,bottom,orange,else,right,also
-technology ,right,link,orange,also,back,also,ashe,ashe,bottom,notice
-technology ,bac,fuc,functiona,lin,ash,lo,els,lin,als,lo
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb03576848bcda2ddd59f6689b62b22e006d8224d6213244ceebc89c12629c9d
+size 746

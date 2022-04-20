@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-canada.csv ,mandate,mandate,get,mandate,mandate,mandate,mandate,compulsory,mandate,mandate
-canada.csv ,get,fine,mandate,re,fine,joke,fine,mandate,compulsory,compulsory
-canada.csv ,use,get,people,require,re,people,re,re,re,fine
-canada.csv ,compulsory,use,use,compulsory,use,word,require,require,require,get
-canada.csv ,fine,compulsory,compulsory,fine,compulsory,vaccinate,compulsory,use,use,joke
-canada.csv ,joke,joke,fine,get,get,compulsory,get,fine,fine,people
-canada.csv ,people,people,word,joke,joke,fine,people,get,get,re
-canada.csv ,re,re,re,use,require,get,use,joke,joke,require
-canada.csv ,require,require,require,vaccinate,people,re,joke,people,word,use
-canada.csv ,vaccinat,vaccinat,vaccinat,peopl,vaccinat,requir,vaccinat,vaccinat,peopl,vaccinat
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb12c8030ab0e699af013d8d915382d8829caf1916f45e1ac6eaa4806c7c07d
+size 794

@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics ,government,s,test,member,s,subpoena,get,terrorist,terrorist,terrorist
-AmericanPolitics ,terrorist,terrorist,pass,government,terrorist,right,info,government,member,s
-AmericanPolitics ,member,government,citizenship,terrorist,government,alt,register,member,s,government
-AmericanPolitics ,citizenship,member,government,s,member,concubine,pub,test,citizenship,member
-AmericanPolitics ,s,pass,terrorist,pass,citizenship,member,bomber,pass,government,pass
-AmericanPolitics ,pass,test,member,citizenship,alt,terrorist,page,citizenship,pass,concubine
-AmericanPolitics ,right,citizenship,s,concubine,pass,government,fucker,concubine,test,test
-AmericanPolitics ,alt,subpoena,concubine,test,concubine,s,office,alt,alt,get
-AmericanPolitics ,test,concubine,get,right,right,citizenship,voter,s,get,citizenship
-AmericanPolitics ,ge,righ,subpoen,subpoen,mothe,pas,fuc,ge,concubin,righ
+version https://git-lfs.github.com/spec/v1
+oid sha256:c86b6a216d82201f961a7d3b7399f86d7608f909c30328f4ae63b0851d797f0e
+size 924

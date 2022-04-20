@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-energy ,fusion,year,fusion,fusion,s,drive,fusion,fusion,laser,mean
-energy ,energy,energy,energy,energy,hehehe,fusion,laser,energy,plasma,stuff
-energy ,plasma,take,laser,year,city,use,energy,plasma,use,disappear
-energy ,dense,really,plasma,take,fusion,laser,field,milestone,research,fusion
-energy ,mit,last,field,power,plasma,model,mit,take,physics,energy
-energy ,magnet,progress,milestone,use,energy,fuel,milestone,laser,s,plasma
-energy ,go,output,icf,reaction,laser,directly,plasma,mit,scalable,go
-energy ,icf,point,go,way,mit,technology,go,icf,pulse,icf
-energy ,power,growth,take,fuel,field,seem,take,go,good,take
-energy ,tak,fol,mi,eve,g,imping,powe,us,fusio,lase
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b23e830fcc3a436229fe200f1e6b29cd275c9baa5c0ac2b0cd3ddadf5c9699
+size 705

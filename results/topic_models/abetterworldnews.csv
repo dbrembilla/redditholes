@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-RIPpolitics.csv ,common,common,release,common,really,common,common,work,really,release
-RIPpolitics.csv ,outcome,outcome,outcome,outcome,outcome,outcome,outcome,knowledge,outcome,outcome
-RIPpolitics.csv ,work,work,effect,work,work,think,work,late,work,effect
-RIPpolitics.csv ,release,really,knowledge,release,think,release,think,mean,think,knowledge
-RIPpolitics.csv ,really,amount,work,really,release,really,release,common,superpower,work
-RIPpolitics.csv ,world,knowledge,mean,amount,amount,amount,amount,really,amount,mean
-RIPpolitics.csv ,effect,effect,common,effect,common,effect,knowledge,release,knowledge,common
-RIPpolitics.csv ,mean,think,think,knowledge,knowledge,mean,mean,think,late,think
-RIPpolitics.csv ,knowledge,release,amount,superpower,world,knowledge,effect,outcome,effect,amount
-RIPpolitics.csv ,superpowe,mea,superpowe,mea,mea,wor,superpowe,amoun,worl,superpowe
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a60318f3917cb0d2351713c17d24f17456d6252124d1dfd0173feb91607151
+size 918

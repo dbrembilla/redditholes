@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-SubredditNN ,hol,m,hol,wait,check,hol,gif,think,wait,hol
-SubredditNN ,wait,boil,wait,hol,contact,wait,fourth,check,hol,know
-SubredditNN ,think,hard,m,know,moderator,m,repost,know,know,do
-SubredditNN ,check,egg,hard,do,question,do,today,do,check,wait
-SubredditNN ,egg,hol,do,think,action,repost,hol,hol,do,today
-SubredditNN ,m,wait,today,m,compose,today,wait,wait,m,hard
-SubredditNN ,boil,check,know,check,bot,hard,m,hard,repost,egg
-SubredditNN ,repost,do,think,egg,perform,think,check,boil,think,m
-SubredditNN ,today,today,check,fourth,sort,boil,do,repost,hard,boil
-SubredditNN ,kno,kno,repos,har,concer,kno,eg,,toda,thin
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d0ae7cee1a72036fb73e631b7af08f5c212673dd877f337094a65e33471d69
+size 660

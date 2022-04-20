@@ -1,12 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-Minarchy ,read,lead,join,read,join,bill,read,read,read,base
-Minarchy ,lead,elect,bot,sense,action,fuck,lead,smoke,lead,sense
-Minarchy ,bill,read,automatically,elect,message,spending,common,poolside,smh,smh
-Minarchy ,elect,smh,message,common,subreddit,take,sense,let,bill,common
-Minarchy ,smh,sense,moderator,base,statistcringe,pass,elect,team,common,read
-Minarchy ,common,bill,anticomaction,bill,question,single,smh,cigar,elect,elect
-Minarchy ,base,common,question,smh,perform,page,legal,bill,legal,lead
-Minarchy ,join,base,concern,lead,moderator,course,base,legal,base,bill
-Minarchy ,sense,join,subreddit,legal,anticomaction,ridiculous,bill,smh,join,legal
-Minarchy ,lega,ridiculou,perfor,joi,bo,rea,ridiculou,lea,sens,joi
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:26f87d7c5114f6230022a4f80087102d7ed3cd4c02ec85c707af0a35d046e3f6
+size 763

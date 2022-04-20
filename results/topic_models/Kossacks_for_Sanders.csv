@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,proceeding,proceeding,proceeding,court,proceeding,emergency,trial,court,court,court
-1984isreality.csv ,court,suspend,legal,emergency,emergency,court,emergency,proceeding,emergency,people
-1984isreality.csv ,trial,court,trial,legal,trial,proceeding,court,people,trial,trial
-1984isreality.csv ,emergency,emergency,court,trial,party,people,rebellion,emergency,people,exist
-1984isreality.csv ,legal,legal,emergency,people,court,legal,proceeding,legal,civil,suspend
-1984isreality.csv ,judge,trial,people,want,legal,suspend,people,party,legal,proceeding
-1984isreality.csv ,want,legislation,judge,proceeding,exist,trial,ask,suspend,proceeding,legal
-1984isreality.csv ,civil,want,civil,suspend,legislation,ask,legal,rebellion,judge,rebellion
-1984isreality.csv ,ask,ask,rebellion,party,suspend,judge,exist,ask,party,emergency
-1984isreality.csv ,legislatio,exis,exis,rebellio,judg,rebellio,partiall,currentl,exis,part
+version https://git-lfs.github.com/spec/v1
+oid sha256:e23b5b59dc9b2b64e0d523a6f8b3e2f417b3d501928f39bd63fb441c806cd830
+size 964

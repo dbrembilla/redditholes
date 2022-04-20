@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-NewYorkForSanders ,vote,ve,narrator,suppression,narrator,narrator,look,state,ask,name
-NewYorkForSanders ,ballot,see,ask,construe,ask,illegal,s,mine,worker,ask
-NewYorkForSanders ,important,illegal,never,absolutely,illegal,ask,fine,know,party,county
-NewYorkForSanders ,s,never,illegal,illegal,never,voter,trouble,let,registration,know
-NewYorkForSanders ,less,narrator,s,s,voter,never,going,call,show,past
-NewYorkForSanders ,care,ask,voter,suppose,worker,worker,unfortunate,illegal,poll,dozen
-NewYorkForSanders ,access,worker,vote,confidential,vote,s,lose,affiliation,never,else
-NewYorkForSanders ,got,happen,get,attempt,happen,happen,pretty,party,happen,list
-NewYorkForSanders ,excuse,voter,happen,voter,s,party,worry,ask,voter,common
-NewYorkForSanders ,da,,part,narrato,registratio,vot,curra,narrato,us,wif
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb5894f63605ee7753b094fb0eeab848e0eec7d1448861da9bc18fcdf821693
+size 844
