@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,arrest,arrest,subreddit,subreddit,subreddit,fight,subreddit,subreddit,subreddit,plan
-1984isreality.csv ,virus,great,com,safe,com,great,space,safe,post,people
-1984isreality.csv ,great,virus,space,post,question,virus,question,question,safe,fight
-1984isreality.csv ,fight,plan,socialism,question,post,arrest,post,com,space,virus
-1984isreality.csv ,plan,people,question,com,automatically,plan,new,space,com,great
-1984isreality.csv ,people,fight,safe,space,space,people,com,post,phrase,arrest
-1984isreality.csv ,subreddit,subreddit,phrase,filter,phrase,safe,safe,socialist,lsc,subreddit
-1984isreality.csv ,socialism,new,discussion,reddit,socialism,guideline,socialism,guideline,new,post
-1984isreality.csv ,discussion,phrase,post,discussion,lsc,socialism,word,phrase,question,com
-1984isreality.csv ,filte,questio,ne,hel,saf,socialis,ls,socialis,socialis,saf
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac0905b820ce2639ab84797c35233a3fe1e3b15e0ed3065ce513df291a9dbe52
+size 909

@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-devopsish ,podman,podman,port,docker,container,podman,container,podman,docker,use
-devopsish ,docker,escape,proxy,use,port,reason,podman,work,podman,docker
-devopsish ,container,xml,run,compose,podman,docker,start,thing,stack,container
-devopsish ,use,m,docker,much,run,use,service,testcontainer,different,compose
-devopsish ,restart,string,container,run,problem,kubernete,generate,support,application,podman
-devopsish ,swarm,work,podman,thank,s,recently,template,bad,tell,run
-devopsish ,developer,need,reverse,container,docker,actually,well,restart,handle,kubernete
-devopsish ,daemon,dynamic,service,root,thing,deprecate,use,container,control,file
-devopsish ,compose,use,rootless,point,low,apply,restart,stop,compose,make
-devopsish ,blo,respec,bin,rootles,rootles,follo,depen,stil,advantag,lo
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a130f416e9d2b619fb1ac89eca3b760c31eef52f5698d227a7900f252ee5b4d
+size 828

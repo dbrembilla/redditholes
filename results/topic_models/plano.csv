@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-infrasociology ,early,wet,wet,wet,wet,wet,wet,wet,wet,beto
-infrasociology ,deadline,beto,beto,beto,beto,beto,beto,beto,water,quick
-infrasociology ,start,suppresse,need,need,quick,suppresse,need,need,suppresse,call
-infrasociology ,registration,need,quick,quick,know,know,quick,vote,vote,know
-infrasociology ,general,vote,suppresse,vote,suppresse,need,vote,suppresse,beto,need
-infrasociology ,election,water,know,suppresse,need,vote,suppresse,know,need,wet
-infrasociology ,voting,know,vote,know,call,call,know,quick,quick,suppresse
-infrasociology ,mvp,call,water,water,water,quick,water,water,know,vote
-infrasociology ,wet,quick,call,call,vote,water,call,call,call,water
-infrasociology ,bet,genera,mv,star,mv,mv,mv,electio,earl,electio
+version https://git-lfs.github.com/spec/v1
+oid sha256:825ea9c268e587769adb88f9fad5469b08740afc34c50f881afe224eb5277a40
+size 772

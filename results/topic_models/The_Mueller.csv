@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,roll,roll,rule,roll,rule,roll,rule,company,roll,roll
-AmericanPolitics.csv ,post,obvious,version,obvious,dick,obvious,message,new,charge,arrest
-AmericanPolitics.csv ,obvious,post,contact,mod,advocate,new,full,ridiculous,obvious,obvious
-AmericanPolitics.csv ,charge,charge,subreddit,post,ban,begin,contact,delete,begin,begin
-AmericanPolitics.csv ,company,company,sidebar,rule,investigator,delete,compose,mention,company,mod
-AmericanPolitics.csv ,reddit,reddit,concern,ridiculous,automatically,arrest,violence,arrest,post,charge
-AmericanPolitics.csv ,arrest,arrest,question,begin,the_mueller,charge,comment,reddit,mod,post
-AmericanPolitics.csv ,mod,mod,action,mention,bigotry,mod,bot,purge,arrest,delete
-AmericanPolitics.csv ,begin,begin,brigade,charge,trolling,company,brigade,post,subreddit,version
-AmericanPolitics.csv ,ful,versio,repor,ne,sideba,reddi,moderato,begi,versio,the_muelle
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8925c96bc385e9ac83047fb23a821f65ca46ea981f2e387a645a264597b9120
+size 945

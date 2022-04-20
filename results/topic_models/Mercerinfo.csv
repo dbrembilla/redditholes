@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,organization,unstable,potentially,future,organization,leak,possess,possess,possess,psychological
-AmericanPolitics.csv ,official,potentially,organization,professional,official,seem,organization,organization,organization,potentially
-AmericanPolitics.csv ,president,early,psychological,collect,professional,kompromat,professional,professional,professional,early
-AmericanPolitics.csv ,potentially,possess,professional,apparent,president,bow,president,president,president,brief
-AmericanPolitics.csv ,possess,tie,president,go,possess,inferiority,potentially,potentially,potentially,president
-AmericanPolitics.csv ,psychological,intelligence,russian,wait,real,psychological,real,real,real,also
-AmericanPolitics.csv ,mentally,seem,possess,comment,mentally,material,nice,nice,nice,bow
-AmericanPolitics.csv ,nice,inferiority,nice,know,nice,organization,non,non,non,trump
-AmericanPolitics.csv ,real,president,non,kremlin,say,impulsive,say,saying,saying,real
-AmericanPolitics.csv ,no,rea,sa,impulsiv,no,territor,officia,officia,officia,comple
+version https://git-lfs.github.com/spec/v1
+oid sha256:c189286230f9d29c413628a57ac4e78cdbab900e8da9ad7d28af098326c3ed43
+size 1091

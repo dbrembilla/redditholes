@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AutoNewspaper.csv ,rule,rule,rule,rule,rule,rule,potuswatch,potuswatch,rule,rule
-AutoNewspaper.csv ,message,message,potuswatch,refrain,refrain,potuswatch,rule,article,message,message
-AutoNewspaper.csv ,article,potuswatch,refrain,remove,remove,article,refrain,rule,refrain,refrain
-AutoNewspaper.csv ,potuswatch,article,remove,potuswatch,potuswatch,message,remove,remember,potuswatch,potuswatch
-AutoNewspaper.csv ,argument,administration,potuswatchs,potuswatchs,potuswatchs,discretion,potuswatchs,potuswatchs,potuswatchs,potuswatchs
-AutoNewspaper.csv ,possible,downvoting,preview,preview,preview,preview,preview,preview,preview,preview
-AutoNewspaper.csv ,source,user,moderator,moderator,moderator,violate,moderator,refrain,possible,possible
-AutoNewspaper.csv ,moderator,violate,remember,remember,remember,friendly,remember,possible,remember,remember
-AutoNewspaper.csv ,create,mod,user,user,user,user,user,user,user,user
-AutoNewspaper.csv ,potuswatch,previe,sourc,sourc,sourc,remov,sourc,sourc,sourc,sourc
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7792f19ae9e07017f2a38096d8bf850f48b2bbd34d67dbfa9b86801ad18772
+size 1041

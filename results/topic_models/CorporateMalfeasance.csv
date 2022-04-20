@@ -1,10 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,bad,good,bad,bad,allegation,bad,good,bad,good,bad
-1984isreality.csv ,good,bad,good,good,assault,good,bad,good,bad,good
-1984isreality.csv ,assault,sexual,sexual,allegation,sexual,allegation,sexual,assault,allegation,allegation
-1984isreality.csv ,controversy,allegation,assault,assault,firestorm,assault,assault,controversy,assault,assault
-1984isreality.csv ,sexual,assault,allegation,sexual,ignite,controversy,allegation,allegation,sexual,controversy
-1984isreality.csv ,allegation,controversy,controversy,controversy,read,read,controversy,sexual,controversy,firestorm
-1984isreality.csv ,firestorm,firestorm,read,firestorm,controversy,firestorm,read,ignite,read,sexual
-1984isreality.csv ,read,read,firestorm,read,bad,sexual,firestorm,read,firestorm,read
-1984isreality.csv ,ignit,ignit,ignit,ignit,goo,ignit,ignit,firestor,ignit,ignit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7fbd17fd49cff7d07b86979d91d49af2674efe0849b9435831b8bc8e9eb7501
+size 888

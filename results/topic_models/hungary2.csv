@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-results\conspiracy_data\conspiracy_top_url.csv ,bassza,delete,delete,delete,delete,screenshotok,koszi,delete,ceg,delete
-results\conspiracy_data\conspiracy_top_url.csv ,aki,vagy,interneten,interneten,interneten,nap,fair,vagy,eleve,interneten
-results\conspiracy_data\conspiracy_top_url.csv ,termeszet,posztot,vagy,uj,vagy,amugy,adamnak,interneten,kerdese,vagy
-results\conspiracy_data\conspiracy_top_url.csv ,sztem,ninc,uj,nap,uj,ninc,posztot,uj,volt,sztem
-results\conspiracy_data\conspiracy_top_url.csv ,uj,volt,amugy,ninc,termeszet,delete,righto,screenshotok,delete,righto
-results\conspiracy_data\conspiracy_top_url.csv ,interneten,interneten,volt,vagy,ninc,vagy,delete,ninc,interneten,uj
-results\conspiracy_data\conspiracy_top_url.csv ,vagy,termeszet,ninc,termeszet,sztem,interneten,vagy,termeszet,vagy,nap
-results\conspiracy_data\conspiracy_top_url.csv ,delete,sztem,sztem,sztem,screenshotok,righto,interneten,sztem,ninc,ninc
-results\conspiracy_data\conspiracy_top_url.csv ,volt,uj,screenshotok,posztot,posztot,uj,sztem,aki,nap,kerdese
-results\conspiracy_data\conspiracy_top_url.csv ,nin,na,fai,fai,ak,vol,u,bassz,ak,ak
+version https://git-lfs.github.com/spec/v1
+oid sha256:40765c084da676bc6e509228676e4b058cf6474f881de9f0005f6ac7d82050f2
+size 1159

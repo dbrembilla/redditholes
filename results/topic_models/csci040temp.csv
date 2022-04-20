@@ -1,10 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,destroy,family,destroy,family,family,destroy,family,family,captain,destroy
-AmericanPolitics.csv ,economy,economy,family,destroy,economy,friend,destroy,destroy,chaos,economy
-AmericanPolitics.csv ,family,destroy,good,captain,captain,captain,economy,chaos,friend,family
-AmericanPolitics.csv ,chaos,friend,chaos,economy,chaos,chaos,friend,friend,good,hate
-AmericanPolitics.csv ,friend,good,friend,friend,destroy,economy,good,hate,hate,friend
-AmericanPolitics.csv ,hate,hate,captain,hate,friend,family,hate,save,save,save
-AmericanPolitics.csv ,save,save,economy,save,good,hate,save,captain,destroy,captain
-AmericanPolitics.csv ,good,captain,hate,chaos,hate,save,captain,economy,economy,chaos
-AmericanPolitics.csv ,captai,chao,sav,goo,sav,goo,chao,goo,famil,goo
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a532bf0c1ab01987a5ab85173c8fc2daccb2d4424fa01440b14f2393f9625b
+size 815

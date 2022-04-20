@@ -1,7 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-awfuleverything.csv ,foot,foot,alternate,foot,get,foot,s,get,foot,s
-awfuleverything.csv ,s,s,different,s,alternate,s,alternate,s,s,foot
-awfuleverything.csv ,universe,different,foot,different,s,universe,different,universe,universe,universe
-awfuleverything.csv ,different,get,get,universe,universe,different,get,alternate,get,get
-awfuleverything.csv ,get,universe,universe,alternate,foot,alternate,universe,foot,alternate,different
-awfuleverything.csv ,alternat,alternat,,ge,differen,ge,foo,differen,differen,alternat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec613757a4c6275a0cf3af70d52caffb6696d6a434bb0b2e30772ddc226879c7
+size 550

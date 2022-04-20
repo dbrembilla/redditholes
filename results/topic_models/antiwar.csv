@@ -1,6 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,society,society,society,cashless,society,society,society,real,cashless,society
-1984isreality.csv ,reason,cashless,reason,society,cashless,reason,cashless,cashless,society,cashless
-1984isreality.csv ,real,reason,cashless,want,want,want,real,reason,reason,real
-1984isreality.csv ,want,want,want,reason,reason,cashless,want,want,real,reason
-1984isreality.csv ,cashles,rea,rea,rea,rea,rea,reaso,societ,wan,wan
+version https://git-lfs.github.com/spec/v1
+oid sha256:b63a1e1723f4501f1c6bb80ed5428958ff97999a05e188d55f26ef3d778f7d43
+size 458

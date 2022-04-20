@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-DarkFuturology ,remove,right,m,remove,protest,busload,right,remove,learn,remove
-DarkFuturology ,sound,none,membership,fascist,require,fantasy,silence,silent,bar,fascist
-DarkFuturology ,silent,thing,remind,sound,none,marxist,none,fascist,protest,protest
-DarkFuturology ,fascist,require,say,silent,silence,equality,require,protest,arrest,silent
-DarkFuturology ,protest,maybe,renew,protest,right,keep,maybe,sound,funny,sound
-DarkFuturology ,comment,silence,sure,renew,rude,forget,riot,up,sound,comment
-DarkFuturology ,up,allow,curious,comment,declare,rioter,allow,comment,scene,up
-DarkFuturology ,keep,protest,think,up,noise,remove,make,keep,trial,sure
-DarkFuturology ,rioter,shot,up,curious,personal,fascist,protest,curious,medium,keep
-DarkFuturology ,rene,hundre,commen,kee,peopl,silen,chan,thin,peopl,curiou
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfaf04754aa46b5e97410126fa1f7d6bb978ce4652f02ea2142e7ef4be25fba1
+size 846

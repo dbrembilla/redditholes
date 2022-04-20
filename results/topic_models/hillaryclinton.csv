@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-EnoughTrumpSpam ,email,say,email,remove,remove,remove,email,com,mirage,keep
-EnoughTrumpSpam ,http,work,release,go,go,go,com,comment,drain,far
-EnoughTrumpSpam ,reddit,government,sure,drain,drain,mirage,reddit,email,email,good
-EnoughTrumpSpam ,comment,email,refuse,mirage,email,drain,http,http,http,job
-EnoughTrumpSpam ,autotldr,use,go,refuse,mirage,email,comment,reddit,com,medium
-EnoughTrumpSpam ,com,account,remove,email,refuse,sure,autotldr,work,reddit,track
-EnoughTrumpSpam ,work,newsweek,mirage,keep,sure,refuse,work,autotldr,work,stuff
-EnoughTrumpSpam ,system,good,drain,sure,keep,keep,system,forward,autotldr,email
-EnoughTrumpSpam ,official,really,keep,good,good,good,day,system,system,com
-EnoughTrumpSpam ,governmen,continu,goo,mediu,releas,stuf,serve,officia,commen,htt
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5553da3a9391811b3dab6261b4f0c4c831d7d22475f35fdd879316ad6166e70
+size 816

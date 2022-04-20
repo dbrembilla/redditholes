@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-GunsAreCool ,study,carry,gun,security,shooter,conceal,permit,disaster,security,government
-GunsAreCool ,here,law,carry,armed,permit,carry,carry,wait,guard,permit
-GunsAreCool ,pdf,state,permit,shooter,security,study,shooter,conceal,incident,area
-GunsAreCool ,file,permit,government,incident,active,shooter,active,happen,shooter,gun
-GunsAreCool ,repository,government,area,guard,carry,disaster,gun,carry,permit,active
-GunsAreCool ,active,gun,law,citizen,gun,discussion,law,security,shoot,state
-GunsAreCool ,shooter,issue,state,firearm,armed,active,security,guard,individual,carry
-GunsAreCool ,happen,event,local,individual,law,wait,state,armed,armed,law
-GunsAreCool ,conceal,zone,shooter,valid,incident,happen,citizen,incident,valid,place
-GunsAreCool ,wan,citize,citize,shoo,citize,wan,governmen,permi,firear,shoote
+version https://git-lfs.github.com/spec/v1
+oid sha256:f65648ee3485d6b21a5760af75d795b7ba4cf6b86a8724dfe4632db9ddc067f6
+size 851

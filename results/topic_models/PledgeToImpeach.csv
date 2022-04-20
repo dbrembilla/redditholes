@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,romney,well,see,never,see,romney,org,romney,see,person
-AmericanPolitics.csv ,wikipedia,collin,collin,wikipedia,person,wikipedia,wikipedia,wikipedia,collin,sadly
-AmericanPolitics.csv ,hope,hope,hope,well,well,well,well,justice,hope,romney
-AmericanPolitics.csv ,wiki,good,well,good,use,see,see,well,well,wiki
-AmericanPolitics.csv ,well,sadly,org,collin,collin,collin,good,use,never,use
-AmericanPolitics.csv ,see,wiki,good,hope,lie,hope,collin,org,org,see
-AmericanPolitics.csv ,good,use,wiki,use,wikipedia,use,hope,see,romney,collin
-AmericanPolitics.csv ,use,see,use,person,wiki,sadly,use,wiki,wiki,good
-AmericanPolitics.csv ,collin,person,person,wiki,hope,wiki,justice,collin,use,hope
-AmericanPolitics.csv ,sadl,justic,sadl,li,justic,neve,wik,sadl,perso,justic
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df4f1d2a86681b255c7b20d2b9f226324035b8877d391146a28eb26b8d3e782
+size 819

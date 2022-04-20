@@ -1,10 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-rage ,plural,plural,wrong,plural,plural,lego,plural,plural,well,joke
-rage ,right,right,point,right,right,look,look,right,s,right
-rage ,s,look,plural,s,look,plural,right,point,plural,plural
-rage ,well,joke,look,look,point,s,s,s,look,s
-rage ,look,s,right,well,joke,well,well,well,point,wrong
-rage ,wrong,well,s,point,s,point,wrong,wrong,right,look
-rage ,point,point,lego,joke,lego,right,lego,look,lego,well
-rage ,joke,lego,well,lego,well,wrong,point,lego,joke,point
-rage ,leg,wron,jok,wron,wron,jok,jok,jok,wron,leg
+version https://git-lfs.github.com/spec/v1
+oid sha256:823ae59c98853091fe6a1bbe6e2bed3d85c0fd771b6e4237d166dff5243262cc
+size 551

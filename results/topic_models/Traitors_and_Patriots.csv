@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics ,remove,indictment,remove,believe,trump,remove,see,remove,remove,remove
-AmericanPolitics ,see,want,see,see,additionally,see,love,believe,see,see
-AmericanPolitics ,believe,trump,believe,remove,pay,believe,happen,see,believe,believe
-AmericanPolitics ,want,remove,trump,trump,million,trump,remove,want,trump,want
-AmericanPolitics ,trump,see,want,want,testify,want,believe,trump,want,trump
-AmericanPolitics ,happen,believe,happen,happen,legal,indictment,trump,happen,love,happen
-AmericanPolitics ,indictment,happen,indictment,indictment,past,happen,want,love,happen,indictment
-AmericanPolitics ,love,love,love,love,relate,love,indictment,indictment,indictment,love
-AmericanPolitics ,mazar,bill,tax,month,rate,month,month,tax,mazar,investigation
-AmericanPolitics ,jur,retur,pag,lengt,jur,ta,pag,pag,mont,ta
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d44013523abeab650bcf49123d82454de78471b40e27397f3f7b8d7cc2bbfd
+size 857

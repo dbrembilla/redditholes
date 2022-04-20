@@ -1,6 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-awfuleverything.csv ,hot,hot,hot,hot,ready,hot,hot,ready,find,hot
-awfuleverything.csv ,ready,ready,ready,ready,hot,look,ready,hot,lemon,lemon
-awfuleverything.csv ,lemon,lemon,look,lemon,find,ready,lemon,lemon,look,ready
-awfuleverything.csv ,look,look,lemon,look,lemon,lemon,look,look,hot,look
-awfuleverything.csv ,fin,fin,fin,fin,loo,fin,fin,fin,read,fin
+version https://git-lfs.github.com/spec/v1
+oid sha256:9973ec5170d6dcf3546a435fb1d689f7b679b99f4448855e4f716f9ef9128fe4
+size 388

@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-techsnap ,ipv,graph,re,wish,usage,usage,operator,spiked,usage,mobile
-techsnap ,usage,account,device,operator,ipv,ipv,mobile,least,become,large
-techsnap ,com,deferred,network,network,become,com,wish,apnic,mobile,network
-techsnap ,become,thing,operator,account,mobile,mobile,large,stat,ipv,operator
-techsnap ,website,comp,large,deferred,website,become,network,average,com,thought
-techsnap ,tablet,wish,mobile,large,com,website,account,net,access,engineering
-techsnap ,mobile,ipv,wish,mobile,story,story,deferred,lab,desktop,silly
-techsnap ,gateway,usage,deferred,device,use,organization,thing,ipv,protocol,course
-techsnap ,include,com,comp,thing,access,well,comp,usage,gateway,rocket
-techsnap ,protoco,includ,accoun,com,addres,us,usag,websit,worldwid,electrica
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca6335cac12a8efff1ed09aa285478b973e41ce6267b39dd920bea17088df431
+size 797

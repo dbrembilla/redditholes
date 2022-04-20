@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-misc ,load,dog,hedgehog,point,home,leave,candidate,get,huge,wag
-misc ,s,talk,live,get,much,flea,combinedgif,face,tick,rake
-misc ,shit,bout,film,s,hedgehog,spider,good,fine,get,freshly
-misc ,flea,wag,assume,bout,spider,normally,look,control,s,bother
-misc ,get,dad,puppy,delete,delete,hang,worry,clothe,great,especially
-misc ,bout,fun,face,dad,fun,especially,thing,doctor,know,fine
-misc ,dad,get,tick,tick,bout,many,entertaining,later,way,get
-misc ,fun,delete,dad,fun,tick,ill,fun,maintenance,maintenance,bout
-misc ,delete,tick,get,flooop,get,grass,tick,check,health,fun
-misc ,wa,flooo,fu,wa,da,jum,flooo,hal,frow,
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9adaf9970622c0b8cfcea3b4fa7bde7303be25b38b3a64a5f45f85412800c79
+size 651

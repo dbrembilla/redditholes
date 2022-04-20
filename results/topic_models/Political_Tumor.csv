@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-PoliticalHumor ,people,delete,idea,delete,delete,delete,make,delete,delete,idea
-PoliticalHumor ,thing,idea,delete,idea,idea,idea,deaf,idea,idea,delete
-PoliticalHumor ,kinda,kinda,people,kinda,kinda,kinda,preset,kinda,kinda,kinda
-PoliticalHumor ,delete,people,kinda,thing,thing,thing,win,thing,people,thing
-PoliticalHumor ,idea,thing,thing,people,people,people,twat,people,thing,people
-PoliticalHumor ,twat,twat,win,preset,twat,win,use,preset,win,win
-PoliticalHumor ,win,use,twat,twat,make,use,delete,win,twat,use
-PoliticalHumor ,use,win,deaf,use,use,deaf,idea,twat,make,twat
-PoliticalHumor ,deaf,deaf,use,win,win,twat,kinda,make,preset,deaf
-PoliticalHumor ,prese,mak,mak,mak,dea,mak,peopl,us,us,mak
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ef4166255c269fa2e059c80271171fd7f09b6f1ae4c8b65b9cfa4bc46c9b68
+size 737

@@ -1,8 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AmericanPolitics.csv ,election,showdocument,showdocument,presidential,election,showdocument,presidential,election,showdocument,election
-AmericanPolitics.csv ,showdocument,election,caucus,election,presidential,election,showdocument,presidential,election,showdocument
-AmericanPolitics.csv ,presidential,presidential,election,showdocument,showdocument,aspx,aspx,caucus,presidential,caucus
-AmericanPolitics.csv ,caucus,aspx,presidential,caucus,aspx,caucus,election,showdocument,aspx,presidential
-AmericanPolitics.csv ,registration,caucus,aspx,step,caucus,presidential,registration,aspx,caucus,registration
-AmericanPolitics.csv ,aspx,step,step,aspx,registration,registration,caucus,registration,registration,aspx
-AmericanPolitics.csv ,ste,registratio,registratio,registratio,ste,ste,ste,ste,ste,ste
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c01b1c4cbbac376ba1244f87a62ba9492f98c56275198b40c553fac486d63f
+size 829

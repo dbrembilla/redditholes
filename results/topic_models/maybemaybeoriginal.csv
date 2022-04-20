@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-Anarchism.csv ,com,com,reddit,com,reddit,reddit,com,com,reddit,reddit
-Anarchism.csv ,reddit,reddit,com,reddit,source,com,reddit,reddit,com,com
-Anarchism.csv ,message,source,source,source,comment,source,source,source,comment,source
-Anarchism.csv ,source,message,message,post,com,message,message,bot,source,message
-Anarchism.csv ,comment,bot,bot,bot,message,bot,bot,message,message,bot
-Anarchism.csv ,post,comment,comment,go,post,comment,comment,comment,bot,comment
-Anarchism.csv ,bot,post,post,comment,bot,post,m,m,compose,post
-Anarchism.csv ,m,compose,compose,compose,m,go,lsowen,post,go,compose
-Anarchism.csv ,compose,go,go,message,go,m,post,go,m,go
-Anarchism.csv ,g,,,lsowe,lsowe,compos,compos,lsowe,pos,
+version https://git-lfs.github.com/spec/v1
+oid sha256:d69666e13e4711b6e4d9442f44fcde51965f016d107d0eda55b4141ec886d271
+size 745

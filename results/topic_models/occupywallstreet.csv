@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-1984isreality.csv ,wait,obsession,wait,rampant,obsession,know,self,describe,wait,know
-1984isreality.csv ,cancel,power,self,disdain,power,describe,know,wartime,know,describe
-1984isreality.csv ,know,start,wartime,dictatorship,dictatorship,election,describe,wait,describe,cancel
-1984isreality.csv ,election,disdain,president,start,start,wartime,wartime,self,cancel,election
-1984isreality.csv ,self,dictatorship,know,power,rampant,wait,cancel,president,self,president
-1984isreality.csv ,wartime,rampant,describe,obsession,article,president,wait,cancel,president,wartime
-1984isreality.csv ,president,powerful,cancel,cause,powerful,self,president,know,election,self
-1984isreality.csv ,describe,punishment,election,enemy,punishment,cancel,election,election,wartime,wait
-1984isreality.csv ,start,cronyism,start,medium,corporate,dictatorship,power,power,dictatorship,obsession
-1984isreality.csv ,powe,trum,rampan,electio,disdai,powe,punishmen,star,protec,dictatorshi
+version https://git-lfs.github.com/spec/v1
+oid sha256:08db576ea50da43732db0443748ae49474b4f7ccce2c193fa263c5093073b658
+size 996

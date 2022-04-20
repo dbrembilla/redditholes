@@ -1,21 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-aclu ,read,spread,fight,want,m,m,australian,business,m,m
-aclu ,well,tendency,right,safety,sentiment,nice,agree,government,stay,government
-aclu ,change,show,rather,question,stay,government,sentiment,stay,much,nice
-aclu ,much,nocidal,course,worry,change,sentiment,m,m,change,much
-aclu ,nice,lot,effective,kid,much,agree,stay,well,agree,agree
-aclu ,m,help,fully,know,agree,stay,change,sentiment,government,stay
-aclu ,agree,good,living,parent,nice,read,much,change,sentiment,change
-aclu ,stay,donate,minecraft,period,well,well,nice,much,nice,sentiment
-aclu ,sentiment,abbotts,opposition,thing,australian,parent,government,australian,read,want
-aclu ,busines,shar,war,alik,governmen,muc,wel,rea,australia,busines
-GamerGhazi ,people,potter,people,hufflepuff,hand,least,welp,potter,aggressive,people
-GamerGhazi ,potter,actor,rowling,see,case,old,actor,people,love,book
-GamerGhazi ,welp,people,potter,later,tooth,hermione,potter,actor,article,nice
-GamerGhazi ,case,welp,come,influence,due,ve,people,case,passive,take
-GamerGhazi ,jkr,article,ugly,shirt,feed,since,jkr,jkr,jkr,time
-GamerGhazi ,much,heart,inspiration,nice,bite,year,case,welp,stuff,warm
-GamerGhazi ,actor,case,know,recently,look,still,heart,heart,crush,heart
-GamerGhazi ,passive,much,personality,genius,potter,ever,much,rowling,ever,much
-GamerGhazi ,heart,jkr,true,author,people,crush,passive,passive,still,rowling
-GamerGhazi ,com,lov,awesom,spea,wel,stuf,articl,muc,yea,as
+version https://git-lfs.github.com/spec/v1
+oid sha256:38ae630d54562c64899733385cef9af1e0171289977a70d497d0c18a4551081c
+size 1477

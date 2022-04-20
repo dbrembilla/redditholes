@@ -1,11 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-environment ,ect,calm,calm,rational,park,seasonal,park,park,park,sub
-environment ,park,hopefully,rational,calm,worker,hire,worker,back,back,thank
-environment ,people,comment,thank,hopefully,panic,park,back,job,hurt,comment
-environment ,shut,park,hopefully,thank,job,season,seasonal,point,time,hopefully
-environment ,work,sub,comment,comment,back,end,insurance,hurt,say,rational
-environment ,seasonal,rational,worker,sub,hire,freeze,forbid,certainly,panic,calm
-environment ,happen,thank,seasonal,park,seasonal,last,hire,cite,point,park
-environment ,extend,worker,sub,hire,need,worker,official,say,certainly,point
-environment ,government,seasonal,park,worker,position,shut,job,time,need,cite
-environment ,overflo,hir,hir,seasona,forbi,peopl,pu,shu,jo,jo
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1afe1554a682471ee9baca61b22a17aadc692c2828cb71ef7b0821361a9d06d
+size 790

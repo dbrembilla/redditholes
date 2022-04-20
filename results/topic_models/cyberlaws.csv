@@ -1,9 +1,3 @@
-origin,0,1,2,3,4,5,6,7,8,9
-AnythingGoesNews.csv ,least,maybe,maybe,light,least,least,least,least,light,base
-AnythingGoesNews.csv ,maybe,shine,light,base,maybe,base,maybe,maybe,maybe,bribe
-AnythingGoesNews.csv ,light,least,least,maybe,light,maybe,light,light,base,shine
-AnythingGoesNews.csv ,shine,whole,base,whole,shine,shine,shine,base,system,system
-AnythingGoesNews.csv ,whole,base,bribe,least,whole,bribe,base,bribe,whole,whole
-AnythingGoesNews.csv ,bribe,bribe,shine,shine,base,light,whole,shine,bribe,least
-AnythingGoesNews.csv ,system,light,system,system,bribe,system,bribe,system,least,light
-AnythingGoesNews.csv ,bas,syste,whol,brib,syste,whol,syste,whol,shin,mayb
+version https://git-lfs.github.com/spec/v1
+oid sha256:be4cd1fc6a0d9d9642eb11a0ac093cdc50da6c9c9e11d5ffce99f351d956da86
+size 682
