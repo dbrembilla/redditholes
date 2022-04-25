@@ -2,7 +2,7 @@ import pandas as pd
 
 #csv file name to be read in 
 
-in_csv = 'comments_sciencePseudoscience_conspiracies.csv'
+in_csv ='comments/comments_left_right_bernie.csv'
 
 #get the number of lines of the csv file to be read
 
@@ -23,8 +23,7 @@ for i in range(1,number_lines,rowsize):
           nrows = rowsize,#number of rows to read at each loop
           skiprows = i, names = ['','Source','Target','NumberComments','Comments'])#skip rows that have been read
     #csv to write data to a new file with indexed name. input_1.csv etc.
-    out_csv = 'comments_sciencePseudoscience_conspiracies' + str(i) + '.csv'
-    #print(out_csv)
+    out_csv = 'comments_left_right_bernie' + str(i) + '.csv'
 
     df.to_csv(out_csv, encoding='utf8',
           header=True,
