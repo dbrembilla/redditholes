@@ -412,22 +412,25 @@ section {
 # Values
 --------------------------------------------------------------*/
 .values .box {
-  padding: 30px;
+  padding: 0% 5% 10% 5%;
   box-shadow: 0px 0 5px #6304041e;
   text-align: center;
   transition: 0.3s;
   height: 100%;
+  width: 100%;
+  margin-bottom: -30%;
 }
 .values .box img {
-  padding: 30px 50px;
+  padding: 0% 5% 5%;
   transition: 0.5s;
   transform: scale(1.1);
+  height: 60%;
 }
 .values .box h3 {
   font-size: 24px;
   color: #f15641;
   font-weight: 700;
-  margin-bottom: 18px;
+  margin-bottom: 0.3em;
 }
 .values .box:hover {
   box-shadow: 0px 0 30px rgba(0, 0, 0, 0.74);
@@ -547,13 +550,11 @@ section {
 }
 
 #reference span{
-  color: #f15641;
-  font-weight: 700 !important;
+  font-weight: 900 !important;
 }
 
 #more_reference span{
-  color: #f15641;
-  font-weight: 700 !important;
+  font-weight: 900 !important;
 }
 
 .features .feture-tabs .tab-content i {
@@ -1137,6 +1138,10 @@ section {
   color: #f15641;
 }
 
+/*--------------------------------------------------------------
+# Personalization
+--------------------------------------------------------------*/
+
 .hide{
   display: none !important;
 }
@@ -1145,11 +1150,14 @@ section {
   display: block !important;
 }
 
+.hole{
+  padding-top: 10%;
+}
+
 .hole .content {
-  border-top: solid 3px #000000;
-  border-bottom: solid 3px #000000;
+  border-top: solid 3px #f25641;
+  border-bottom: solid 3px #f25641;
   padding: 5%;
-  margin:2%;
 }
 .hole h3 {
   font-size: 25px;
