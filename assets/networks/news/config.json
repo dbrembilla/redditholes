@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "redditHoles"
+  },
+  "text": {
+    "more": "The interesting fact abouth this subnetwork is that the topics treated and the ideologies presented are very heterogeneous and sometimes contradictory (r/racism and r/neutral news, which are also very close to one another), and also embraces different political ideologies (r/democrats and r/The_Donald).\nIt is probably the perfect field for rabbit holes and echo chambers to develop, because of the wide range of ideas and connections possible and the distance between some (even if not all) of those communities (r/ConspiracyII for instance is distantiated from the center even if it shows a personal and connected small subcommunity) which are reachable even if not central in the network.",
+    "intro": "This subnetwork connects channels devoted to actuality analisys and conspiracies such as r/infrasociology and r/ConspiracyII, with political ones of moderate ideologies such as r/democrats and news channels such as r/AnythingGoesNews.",
+    "title": "News and society"
+  },
+  "legend": {
+    "edgeLabel": "Crosspost",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Subreddit"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

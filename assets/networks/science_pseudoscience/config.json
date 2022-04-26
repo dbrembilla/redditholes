@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "redditHoles"
+  },
+  "text": {
+    "more": "What is observable in this subnetwork is the presence of both scienctifical subreddits (which are surely a majority) and counter-factual ones, for instance Climate skeptics. \nThis can be interesting in the idea that people could fluidly swing from confirmed and factual information to less credible ones, without even noticing.",
+    "intro": "This network connects scientifical disclosure and social devoted subreddits, putting also in the mix pseudoscientifical and anti-establishment ones.",
+    "title": "Science and pseudoscience"
+  },
+  "legend": {
+    "edgeLabel": "Crosspost",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Subreddit"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

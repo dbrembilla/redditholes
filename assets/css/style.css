@@ -363,8 +363,8 @@ section {
 # About
 --------------------------------------------------------------*/
 .about .content {
-  border-top: solid 3px #000000;
-  border-bottom: solid 3px #000000;
+  border-top: solid 0.15em #f15641;
+  border-bottom: solid 0.15em #f15641;
   padding: 40px 0 40px 40px;
 }
 .about h3 {
@@ -540,7 +540,7 @@ section {
 }
 
 #reference{
-  padding-top: 5em !important;
+  padding-top: 3.5em !important;
 }
 
 .btn-white{
