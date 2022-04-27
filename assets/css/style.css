@@ -372,15 +372,15 @@ section {
   padding: 40px 0 40px 40px;
 }
 .about h3 {
-  font-size: 1.6em;
-  font-weight: 900;
+  font-size: 1.8em;
+  font-weight: 900 !important;
   padding-bottom: 0.5em;
   color: #000000;
   text-transform: uppercase;
 }
 .about h2 {
   font-size: 1.8em;
-  font-weight: 700;
+  font-weight: 600;
   color: #f15641;
   
 }
