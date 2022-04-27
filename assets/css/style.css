@@ -661,6 +661,7 @@ section {
   height: 100%;
 }
 
+
 .flip-card-front img{
   margin-top: -2em;
   max-height: 300px;
@@ -701,6 +702,7 @@ section {
   color: white;
   transform: rotateY(180deg);
 }
+
 
 .services .service-box {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
@@ -761,11 +763,23 @@ section {
   border: 12px double #ffffff;
 }
 
+.services .service-box h3,  .services .service-box p, .services .service-box .read-more{
+  visibility: hidden;
+}
+
 .services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
+  visibility: visible;
+  transition:visibility 0.5s linear,opacity 0.3s linear;
   color: #ffffff;
 }
 .services .service-box:hover .icon {
   background: #ffffff;
+}
+
+.services .service-box:hover .flip-card-front img {
+  visibility: hidden;
+  opacity:0;
+  transition:visibility 0.3s linear,opacity 0.3s linear;
 }
 
 /*--------------------------------------------------------------
