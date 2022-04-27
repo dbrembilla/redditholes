@@ -48,7 +48,7 @@ section {
   padding-bottom: 40px;
 }
 .section-header h2 {
-  font-size: 30px;
+  font-size: 2em;
   letter-spacing: 2px;
   font-weight: 700;
   margin: 0;
@@ -128,7 +128,7 @@ section {
 }
 .header .logo img {
   max-height: 40px;
-  margin-right: 6px;
+  margin-right: 0.6em;
 }
 .header .logo span {
   font-size: 30px;
@@ -136,7 +136,7 @@ section {
   letter-spacing: 1px;
   color: #f15641;
   font-family: "Nunito", sans-serif;
-  margin-top: 3px;
+  margin-top: 0.6em;
 }
 
 /*--------------------------------------------------------------
@@ -275,20 +275,24 @@ section {
   height: 100vh;
   background: url(../img/hero-bg-2.png) top center no-repeat;
   background-size: cover;
-}
+  }
+  
 .hero h1 {
   margin: 0;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 3.5em;
+  font-weight: 800;
   color: #f15641;
 }
 .hero h2 {
   color: #000000;
-  margin: 15px 0 0 0;
-  font-size: 22px;
+  margin: 0.5em 0 0.5em 0;
+  font-size: 1.7em;
+  font-weight: 600;
+  width: 80%;
 }
 .hero .btn-get-started {
   margin-top: 30px;
+  height: 4.5em;
   line-height: 0;
   padding: 15px 40px;
   border-radius: 4px;
@@ -299,8 +303,8 @@ section {
 }
 .hero .btn-get-started span {
   font-family: "Nunito", sans-serif;
-  font-weight: 600;
-  font-size: 16px;
+  font-weight: 700;
+  font-size: 1.3em;
   letter-spacing: 1px;
 }
 .hero .btn-get-started i {
@@ -368,24 +372,26 @@ section {
   padding: 40px 0 40px 40px;
 }
 .about h3 {
-  font-size: 25px;
+  font-size: 1.6em;
   font-weight: 900;
   padding-bottom: 0.5em;
   color: #000000;
   text-transform: uppercase;
 }
 .about h2 {
-  font-size: 22px;
+  font-size: 1.8em;
   font-weight: 700;
   color: #f15641;
   
 }
 .about p {
   margin: 15px 0 30px 0;
-  line-height: 24px;
+  line-height: 1.5em;
+  font-weight: 500 !important;
 }
 .about .btn-read-more {
   line-height: 0;
+  height: 4em;
   padding: 15px 40px;
   border-radius: 4px;
   transition: 0.5s;
@@ -396,7 +402,7 @@ section {
 .about .btn-read-more span {
   font-family: "Nunito", sans-serif;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 1.1em;
   letter-spacing: 1px;
 }
 .about .btn-read-more i {
@@ -541,6 +547,10 @@ section {
 
 #reference{
   padding-top: 3.5em !important;
+}
+
+.features span{
+  font-weight: 900 !important;
 }
 
 .btn-white{
@@ -1154,6 +1164,10 @@ section {
   padding-top: 10%;
 }
 
+.hole_a, .hole_b, .hole_c{
+  padding-top: 5%;
+}
+
 .hole .content {
   border-top: solid 3px #f25641;
   border-bottom: solid 3px #f25641;
@@ -1205,3 +1219,4 @@ section {
 .container-frame{
   min-height: 500px;
 }
+
