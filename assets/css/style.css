@@ -1234,7 +1234,7 @@ section {
 
 .container-heat{
   min-height: 300px;
-  margin-top: 2%;
+  margin-top: 10%;
 }
 
 .right{
@@ -1255,10 +1255,12 @@ section {
 .clear{
   float: none;
   display: block;
-  height: 2.2em;
+  height: 2.3em;
 }
 
 .hole hr{
-  border-top: 2px dashed red;
+  border-top: 4px dotted #f15641;
+  background: #fff;
   width: 55%;
+  opacity: 1 !important;
 }
