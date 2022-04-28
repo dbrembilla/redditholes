@@ -33,6 +33,7 @@ function visualize_section(section_name, section_class){
     }
 }
 
+
 function callReddit (text){
     window.open("https://www.reddit.com/r/"+text+"/");
   }
