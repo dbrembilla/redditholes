@@ -1232,3 +1232,33 @@ section {
   min-height: 500px;
 }
 
+.container-heat{
+  min-height: 300px;
+  margin-top: 2%;
+}
+
+.right{
+  float: right;
+  display: block;
+}
+
+.left{
+  float: left;
+  display: block;
+}
+
+.central{
+  float: none;
+  margin-left: 20%;
+}
+
+.clear{
+  float: none;
+  display: block;
+  height: 2.2em;
+}
+
+.hole hr{
+  border-top: 2px dashed red;
+  width: 55%;
+}
