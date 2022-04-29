@@ -31,6 +31,7 @@
 
 
   <script src="assets/js/myjs.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -42,9 +43,22 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
 </head>
 
 <body>
+
+<div class="loader-wrapper-wrapper">
+  <div class="loader-wrapping">
+<div class="loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>
+  </div>
+</div>
+</div>
+
+<script>$(window).on("load",function(){
+  $(".loader-wrapper-wrapper").fadeOut("slow");
+});</script> 
 
   <!-- ======= Header ======= -->
   <header id="header" class="header fixed-top">
