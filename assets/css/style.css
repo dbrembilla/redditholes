@@ -463,6 +463,37 @@ section {
 .counts {
   padding: 70px 0 60px;
 }
+.counts .counts-box {
+  padding: 24px 20px;
+  height: 100%;
+  box-shadow: 0px 0 25px #6304041e;;
+}
+
+.counts-box:hover{
+  box-shadow: 0px 0 5px #f15641;
+  transition: 0.5s;
+}
+
+.counts .counts-box h3 {
+  font-size: 22px;
+  color: #f15641;
+  font-weight: 700;
+  margin: 0.7em;
+}
+.counts .counts-box i {
+  line-height: 0;
+  background: #6304041e;
+  padding: 4px;
+  margin-right: 10px;
+  font-size: 24px;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+.counts .counts-box:hover i {
+  background: #f15641;
+  color: #fff;
+}
+
 .counts .count-box {
   display: flex;
   align-items: center;
@@ -477,6 +508,7 @@ section {
   margin-right: 20px;
   color: #f15641;
 }
+
 .counts .count-box span {
   font-size: 36px;
   display: block;
@@ -1193,7 +1225,7 @@ section {
 }
 
 .display{
-  display: block !important;
+  display: inline-block !important;
 }
 
 .hole{
@@ -1248,6 +1280,11 @@ section {
   margin: 0 5% 5% 5%;
 }
 
+.detached-bottom{
+  margin-bottom: 8%;
+  margin-left: 0.1%;
+}
+
 .closer{
   margin-top: -5em !important;
 }
@@ -1257,7 +1294,7 @@ section {
 }
 
 .container-heat{
-  min-height: 900px;
+  height: 600px;
   margin-top: 10%;
 }
 
@@ -1415,7 +1452,6 @@ section {
  
 .wordcloud{
   height: 50em !important;
-  width: auto;
   visibility: visible;
   margin-top: -2em;
 }
@@ -1445,10 +1481,6 @@ section {
 
 .counts header p{
   line-height: normal !important;
-}
-
-.counts header h2{
-  
 }
 
 .counts img{
