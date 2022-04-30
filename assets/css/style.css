@@ -15,6 +15,10 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  overflow: hidden;
+  height: 100%;
+  position: fixed;
+  width:100%;
 }
 
 a {
@@ -125,6 +129,7 @@ section {
 }
 .header .logo {
   line-height: 0;
+  visibility: hidden;
 }
 .header .logo img {
   max-height: 40px;
