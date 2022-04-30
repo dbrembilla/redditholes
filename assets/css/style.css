@@ -60,6 +60,7 @@ section {
   color: #000000 !important;
   text-transform: uppercase !important;
 }
+
 .section-header p {
   margin: 10px 0 0 0;
   padding: 0;
@@ -68,6 +69,12 @@ section {
   font-weight: 700;
   color: #f15641;
 }
+
+.section-header hr {
+  border-top: 4px dotted #f15641;
+  background-color: white;
+}
+
 @media (max-width: 768px) {
   .section-header p {
     font-size: 28px;
@@ -527,6 +534,7 @@ section {
 }
 .features .feture-tabs .nav-pills {
   border-bottom: 1px solid #eee;
+  width: 100%;
 }
 .features .feture-tabs .nav-link {
   background: none;
@@ -548,6 +556,10 @@ section {
   margin: 0;
   font-weight: 700;
   color: #f15641;
+}
+
+.tab-content{
+  margin-bottom: 3em;
 }
 
 #reference{

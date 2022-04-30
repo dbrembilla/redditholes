@@ -878,7 +878,7 @@
     <section id="echo" class="counts">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
-          <h2>Echo chambers - How ideas repeat themselves</h2>
+          <h2>Echo chambers - Through the looking glass</h2>
           <p>"Why, sometimes I've believed as many as six impossible things before breakfast."</p>
         </header>
 
@@ -1071,22 +1071,19 @@
         <div class="container" data-aos="fade-up">
   
           <header class="section-header">
-            <h2>Approach and results</h2>
+            <h2>Thesis and approach</h2>
             <p>“Sentence first—verdict afterwards.” </p>
           </header>
            <!-- Feature Tabs -->
            <div class="row feture-tabs" data-aos="fade-left">
             <div class="col-lg-6">            
               <!-- Tabs -->
-              <ul class="nav nav-pills mb-3">
+              <ul class="nav nav-pills mb-2">
                 <li>
                   <a class="nav-link active" data-bs-toggle="pill" href="#tabThesis">Our thesis</a>
                 </li>
                 <li>
                   <a class="nav-link" data-bs-toggle="pill" href="#tabMethod">Our method</a>
-                </li>
-                <li>
-                  <a class="nav-link" data-bs-toggle="pill" href="#tabExpectation">Our expected results</a>
                 </li>
               </ul><!-- End Tabs -->
   
@@ -1111,49 +1108,50 @@
                     <i class="bi bi-check2"></i>
                     <h4>Users approach radicalized contents through gateways communities that can lead from moderate and socially acceptable contents to more radicalized ones</h4>
                   </div>
-                  <p></p>
+                  <p>
+                  Users participate to discussions in subreddits communities and often connect them with one another through <span>crossposting of contents</span>: this allows for radicalized contents to breach, through users interaction, even in normally moderate subreddits, connecting them to less moderate communities.<br>
+                  It is also possible to observe, through content analysis, how <span>sectorized subreddits</span>, participating in smaller communities, connect to wider ones through <span>gateways consinsting in subreddits grouping linked topics</span> in the same environment.
+                  </p>
                 </div><!-- End Tab 1 Content -->
   
                 <div class="tab-pane fade show" id="tabMethod">
-                  <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                   <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                    <h4>Identification and extraction of connections between subreddits</h4>
                   </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                  <p>The first thing we needed to deploy our analysis was to <span>identify a starting subreddit</span> and then <span>expand its connections and examine them</span>: our starting point was <a href="http://reddit.com/r/conspiracy/" target="_blank" rel="noopener noreferrer">/r/conspiracy</a> in order to be sure to include at least one conspirational subreddit in the analysis.<br>
+                  We therefore decided to consider the top 5000 posts from the subreddit, extract their url and query the whole reddit to search for their re-sharing, through PRAW.<br>
+                  This made possible to obtain the <span>subreddits r/conspiracy was most connected with</span>, at least in terms of <span>shared contents</span>, and save them in a CSV: this consisted in our <span>network's first level</span>, containing the resharing's location, their link and their number.<br>
+                  We then proceeded to <span>expand this first level into the second one</span> applying the exact same logic to each of the subnetwork identified in the CSV: this generated a <span>list of CSVs</span>, each corresponding to the resharings subreddits relative to the first 5000 top posts of its naming subreddit.<br>
+                  For the first level we <span>randomly selected 10 of this CSVs</span> and performed the same task, but this time considering <span>only the first 500 top posts</span>.
+                  </p>
                   <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                    <h4>Network construction and identification of communities</h4>
                   </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                  <p>
+                    With this data we were able to extract the information needed to <span>construct our network of subreddits</span>, considering <span>each of them as a node</span>, weighted by the amount of connections possessed, while <span>edges were identified as crossposts between nodes</span> and weighted by the number of actual crossposts present, which was one of the information previously memorized in the CSVs. <br>
+                    The network was then <span>subdivided in communities through the application of Modularity measures</span> and the communities were separated before submitting the network to a ForceAtlas algorithm to allow the <span>observation of more and less central communities</span>. This also made possible to <span>identify groups of communities sharing connections</span> and sub-group the whole networks in such aggregated subnetworks, along with the single ones previously highlighted.
+                  </p>
+                  <div class="d-flex align-items-center mb-2">
+                    <i class="bi bi-check2"></i>
+                    <h4>Comment extractio: sentiment analysis, topic modeling and wordclouds</h4>
+                  </div>
+                  <p>
+                    The last step consisted in extracting each posts comments, considering also the first level of replies, and save them in order to access them later for analysis: this was done both at a single subnetwork level than at a grouped-subnetwork one.<br>
+                    Comments were then submitted to <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" target="_blank">sentiment analysis</a> and <a href="https://en.wikipedia.org/wiki/Topic_model" target="_blank">topic modelling</a>: the first one is a methodology employing <span>supervised machine learning able to identify affective states and subjective information</span>, while the latter is a <span>statistical method used to discover recurring topics</span> in a collection of texts. <a href="https://github.com/cjhutto/vaderSentiment" target="_blank">Vader lexicon</a> was chosen for both processes in order <span>not to underestimate social networks slangs and typical expressions</span>.<br>
+                    Also wordclouds were computed from comments through the use of <a href="https://amueller.github.io/word_cloud/" target="_blank">WordCloud</a>.
+                  </p>
                 </div><!-- End Tab 2 Content -->
   
-                <div class="tab-pane fade show" id="tabExpectation">
-                  <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                  </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                  </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-                </div><!-- End Tab 3 Content -->
-  
               </div>
-              <br><br>
               <h3>“If there’s no meaning in it,” said the King, “that saves a world of trouble, you know, as we needn’t try to find any.” </h3>
-  
             </div>
   
             <div class="col-lg-6">
               <img src="assets/img/features-2.png" class="img-fluid" alt="">
             </div>
-  
           </div><!-- End Feature Tabs -->
-  
         </div>
   
       </section><!-- End Pricing Section -->
