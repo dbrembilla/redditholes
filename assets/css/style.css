@@ -821,6 +821,13 @@ section {
   color: #f15641;
   border-bottom: 0;
 }
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230c63e4'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e);
+  transform: rotate(-180deg);
+  filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(341deg) brightness(119%) contrast(119%);
+}
+
 .faq .accordion-body {
   padding: 0 0 25px 0;
   border: 0;
@@ -860,7 +867,7 @@ section {
 .team .member .social {
   position: absolute;
   right: -100%;
-  top: 30px;
+  top: 50px;
   opacity: 0;
   border-radius: 4px;
   transition: 0.5s;
@@ -869,14 +876,14 @@ section {
 }
 .team .member .social a {
   transition: color 0.3s;
-  color: rgba(1, 41, 112, 0.5);
+  color: #f1564;
   margin: 15px 12px;
   display: block;
   line-height: 0;
   text-align: center;
 }
 .team .member .social a:hover {
-  color: #f15641;
+  color: #0db9ee;
 }
 .team .member .social i {
   font-size: 18px;
