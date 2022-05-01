@@ -437,7 +437,7 @@ section {
   box-shadow: 0px 5px 25px #0000005b;
 }
 .about .btn-read-more span {
-  margin-top: -3.7em;
+  margin-top: -2.2em;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   font-size: 1.1em;
@@ -1486,6 +1486,66 @@ section {
   70% { opacity: 0.60;}
   60% { opacity: 0.80;}
   50% { opacity: 1;}
+}
+
+@media (max-width: 768px){
+  .wrapping-wrapper{
+    top: 22%;
+    left: 0%;
+    display: inline-block;
+    width: 470px;
+    height: 470px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 4s infinite ease-in-out;
+  }
+  
+  .loader-wrapping{
+    top: 22%;
+    left: 22%;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+    background-color: #f15641;
+    animation: loader-wrapping 3s infinite ease-in-out;
+  }
+  
+  .loader-wrapper {
+    display: inline-block;
+    top: 30%;
+    left: 29%;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 2s infinite ease-in-out;
+  }
+  
+  .loader {
+    display: inline-block;
+    top: 33%;
+    left: 33%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    animation: loader 1s infinite ease-in-out;
+  }
+  
+  .loader-inner {
+    height: 100%;
+    border-radius: 50%;
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    background-color: #f15641;
+    animation: loader-inner 2s infinite ease-in-out;
+  }
+
 }
  
 .wordcloud{
