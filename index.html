@@ -1367,22 +1367,23 @@
                     <i class="bi bi-check2"></i>
                     <h4>Rabbit Holes and Echo Chambers are processes that can be observed on Reddit</h4>
                   </div>
-                  <p>This means that the platform, even if the "suggestion logic" that governs other social media platforms (e.g. <span>Youtube</span>) is less manifested, it is not safe and sound in the least.<br>
+                  <p>This shows that the platform, even if the "suggestion logic" that governs other social media platforms (e.g. <span>Youtube</span>) is less manifested, it is not safe and sound in the least.<br>
                   Communities tend to form around <span> topics and ideologies</span>, reproducing something more similar to the basic human need to find <span>assurance and stable truths</span> to base their behavior on (e.g. <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blan">confirmation bias</a> or <a href="https://en.wikipedia.org/wiki/Selective_perception" target="_blank" rel="noopener noreferrer">selective perception</a>).
                   </p>
                   <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
                     <h4>Rabbit Holes and Echo Chambers can create more cohesive subcommunities around various topics</h4>
                   </div>
-                  <p>Analyzing the structure of <span>reddit (sub)network</span>, formed by <span>subreddits as nodes connected by crossposting as edges (weighted by the amount of posts actually shared by the two subreddits/nodes involved)</span> it will be possible to highlight, using mathematical tools such as network analysis measures of modularity, different <span>communities that will emerge autonomously</span>. <br>
-                  This communities will respresent real thematic conglomerates of subreddits: this does not mean that there are strongly interrellated subreddits caring all about one and only one topic but a more wide and multifaceted connection constructed thanks to social, political and ideological correlations (e.g subreddits related to extreme left and subreddits related to veganism, which has been, in the last years linked to strong political actions and political movements such as PETA). </p>
+                  <p>By analyzing the structure of the <span>network</span> formed by <span>subreddits as nodes and connected by crossposts</span> it will be possible to highlight, using analytical tools such as Network Analysis, <span>overarching communities</span>. <br>
+                  These communities should represent real thematic conglomerates of subreddits. This does not mean that there are strongly interrelated subreddits with just one point of interest but wider and multifaceted connections constructed thanks to social, political and ideological connections (e.g subreddits related to extreme left and subreddits related to veganism, which has been, in the last years linked to strong political actions and political movements such as PETA). </p>
                   <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
                     <h4>Users approach radicalized contents through gateways communities that can lead from moderate and socially acceptable contents to more radicalized ones</h4>
                   </div>
                   <p>
-                  Users participate to discussions in subreddits communities and often connect them with one another through <span>crossposting of contents</span>: this allows for radicalized contents to breach, through users interaction, even in normally moderate subreddits, connecting them to less moderate communities.<br>
-                  It is also possible to observe, through content analysis, how <span>sectorized subreddits</span>, participating in smaller communities, connect to wider ones through <span>gateways consinsting in subreddits grouping linked topics</span> in the same environment.
+                  Users participate to discussions in subreddits communities and often connect them with one another through <span>crossposting of contents</span>. This allows for radicalized contents to reach new users, through users interaction, connecting them to less moderate communities.<br>
+                  It is also possible to observe, through the analysis of contents, how <span>sectorized subreddits</span>, participating in smaller communities, connect to wider ones through <span>gateways consisting in subreddits grouping linked topics</span> in the same environment.<br>
+                  An evidence of radicalization may also appear from the tone of conversation. As social media allows for free expression of hatred, we expect most comments in radicalized communities to be negative.
                   </p>
                 </div><!-- End Tab 1 Content -->
   
@@ -1391,10 +1392,11 @@
                     <i class="bi bi-check2"></i>
                     <h4>Identification and extraction of connections between subreddits</h4>
                   </div>
-                  <p>The first thing we needed to deploy our analysis was to <span>identify a starting subreddit</span> and then <span>expand its connections and examine them</span>: our starting point was <a href="http://reddit.com/r/conspiracy/" target="_blank" rel="noopener noreferrer">/r/conspiracy</a> in order to be sure to include at least one conspirational subreddit in the analysis.<br>
-                  We therefore decided to consider the top 5000 posts from the subreddit, extract their url and query the whole reddit to search for their re-sharing, through PRAW.<br>
-                  This made possible to obtain the <span>subreddits r/conspiracy was most connected with</span>, at least in terms of <span>shared contents</span>, and save them in a CSV: this consisted in our <span>network's first level</span>, containing the resharing's location, their link and their number.<br>
-                  We then proceeded to <span>expand this first level into the second one</span> applying the exact same logic to each of the subnetwork identified in the CSV: this generated a <span>list of CSVs</span>, each corresponding to the resharings subreddits relative to the first 5000 top posts of its naming subreddit.<br>
+                  <p> You can follow our methods in our <a href = "https://github.com/dbrembilla/redditholes/redditholes.ipynb" target = "_blank">Jupyter Notebook</a>.<br>
+                    What we needed to start our analysis was to <span>identify a starting subreddit</span> and then <span>expand its connections and examine them</span>. Our starting point was <a href="http://reddit.com/r/conspiracy/" target="_blank" rel="noopener noreferrer">r/conspiracy</a> in order to be sure to include at least one conspirational subreddit in the analysis.<br>
+                  We then decided to consider the top 5000 posts from the subreddit, extract their url and query the whole Reddit to search for posts sharing their URL, through PRAW.<br>
+                  We were then able to obtain the <span>subreddits r/conspiracy was most connected with</span>, at least in terms of <span>shared contents</span>, and save them in a CSV file: this consisted in our <span>network's first level</span>, containing the resharing's location, their link and their number.<br>
+                  We then proceeded to <span>expand this first level into the second one</span> applying the exact same logic to each of the subnetwork identified in the CSV: this generated a <span>list of CSV files</span>, each corresponding to the resharings subreddits relative to the first 5000 top posts of its naming subreddit.<br>
                   For the first level we <span>randomly selected 10 of this CSVs</span> and performed the same task, but this time considering <span>only the first 500 top posts</span>.
                   </p>
                   <div class="d-flex align-items-center mb-2">
@@ -1402,16 +1404,16 @@
                     <h4>Network construction and identification of communities</h4>
                   </div>
                   <p>
-                    With this data we were able to extract the information needed to <span>construct our network of subreddits</span>, considering <span>each of them as a node</span>, weighted by the amount of connections possessed, while <span>edges were identified as crossposts between nodes</span> and weighted by the number of actual crossposts present, which was one of the information previously memorized in the CSVs. <br>
-                    The network was then <span>subdivided in communities through the application of Modularity measures</span> and the communities were separated before submitting the network to a ForceAtlas algorithm to allow the <span>observation of more and less central communities</span>. This also made possible to <span>identify groups of communities sharing connections</span> and sub-group the whole networks in such aggregated subnetworks, along with the single ones previously highlighted.
+                    With this data we were able to extract the information needed to <span>construct our network of subreddits</span>, considering <span>each of them as a node</span>, weighted by the amount of connections possessed, while <span>edges were identified as crossposts between nodes</span> and weighted by the number of actual crossposts present, which was one of the information previously memorized in the CSV files. <br>
+                    The network was then <span>subdivided in communities through the application of Modularity measures</span> and the communities were separated before submitting the network to a ForceAtlas algorithm to allow the <span>observation of more and less central communities</span>. This also allowed us to <span>identify groups of communities sharing connections</span> and sub-group the whole networks in such aggregated subnetworks, along with the single ones previously highlighted.
                   </p>
                   <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
-                    <h4>Comment extractio: sentiment analysis, topic modeling and wordclouds</h4>
+                    <h4>Comment extraction: Sentiment Analysis, Topic Modeling and Wordclouds</h4>
                   </div>
                   <p>
-                    The last step consisted in extracting each posts comments, considering also the first level of replies, and save them in order to access them later for analysis: this was done both at a single subnetwork level than at a grouped-subnetwork one.<br>
-                    Comments were then submitted to <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" target="_blank">sentiment analysis</a> and <a href="https://en.wikipedia.org/wiki/Topic_model" target="_blank">topic modelling</a>: the first one is a methodology employing <span>supervised machine learning able to identify affective states and subjective information</span>, while the latter is a <span>statistical method used to discover recurring topics</span> in a collection of texts. <a href="https://github.com/cjhutto/vaderSentiment" target="_blank">Vader lexicon</a> was chosen for both processes in order <span>not to underestimate social networks slangs and typical expressions</span>.<br>
+                    The last step consisted in extracting each posts' comments, considering also the first level of replies to each comment, and save them in order to access them later for analysis. This was done both at a single subnetwork level than at a grouped-subnetwork one.<br>
+                    Comments were then submitted to <a href="https://en.wikipedia.org/wiki/Sentiment_analysis" target="_blank">Sentiment Analysis</a> and <a href="https://en.wikipedia.org/wiki/Topic_model" target="_blank">Topic Modelling</a>: the first one is a methodology employing <span>supervised machine learning able to identify affective states and subjective information</span>, while the latter is a <span>statistical method used to discover recurring topics</span> in a collection of texts. <a href="https://github.com/cjhutto/vaderSentiment" target="_blank">Vader lexicon</a> was chosen for both processes in order <span>not to underestimate social networks slangs and typical expressions</span>.<br>
                     Also wordclouds were computed from comments through the use of <a href="https://amueller.github.io/word_cloud/" target="_blank">WordCloud</a>.
                   </p>
                 </div><!-- End Tab 2 Content -->
