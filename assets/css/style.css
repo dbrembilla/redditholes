@@ -1244,7 +1244,7 @@ section {
 }
 
 .display{
-  display: inline-block !important;
+  display: block !important;
 }
 
 .hole{
@@ -1316,13 +1316,19 @@ section {
 }
 
 .container-frame{
-  min-height: 500px;
-  min-width: 500px;
+  min-height: 600px;
 }
 
 .container-heat{
   height: 600px;
   margin-top: 10%;
+  margin-left: 3%;
+  width: 110%;
+}
+
+
+.fit-col{
+  width: 60%;
 }
 
 .right{
