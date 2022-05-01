@@ -1305,12 +1305,19 @@ section {
   margin-top: 3%;
 }
 
+.detached-top{
+  margin-top: 10% !important;
+  margin-bottom: -10%;
+  margin-left: 3%;
+}
+
 .closer{
   margin-top: -5em !important;
 }
 
 .container-frame{
   min-height: 500px;
+  min-width: 500px;
 }
 
 .container-heat{
