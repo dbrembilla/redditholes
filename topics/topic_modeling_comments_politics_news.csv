@@ -1,6 +1,6 @@
 ,0,1,2,3,4
-0,"0.013*""people""","0.022*""covid""","0.035*""rule""","0.031*""trump""","0.014*""comment"""
-1,"0.011*""get""","0.015*""vaccine""","0.034*""moderator""","0.025*""vote""","0.011*""reddit"""
-2,"0.008*""go""","0.014*""vote""","0.034*""compose""","0.019*""election""","0.009*""say"""
-3,"0.008*""say""","0.010*""biden""","0.034*""please_contact""","0.010*""get""","0.008*""article"""
-4,"0.007*""think""","0.009*""virus""","0.034*""subreddit_message""","0.010*""action""","0.008*""rule"""
+0,"0.034*""compose""","0.014*""trump""","0.007*""make""","0.042*""rule""","0.019*""vote"""
+1,"0.034*""subreddit_message""","0.010*""vote""","0.006*""right""","0.026*""reddit""","0.014*""http_np"""
+2,"0.034*""performed_automatically""","0.009*""election""","0.006*""s""","0.025*""concern""","0.013*""autotldr_comment"""
+3,"0.034*""please_contact""","0.008*""say""","0.006*""know""","0.025*""moderator""","0.013*""biden"""
+4,"0.033*""moderator""","0.007*""make""","0.005*""see""","0.024*""subreddit_message""","0.011*""president"""

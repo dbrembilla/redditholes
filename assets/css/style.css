@@ -1326,6 +1326,11 @@ section {
   width: 110%;
 }
 
+.heat .section-header{
+  margin-top: 10% !important;
+  margin-bottom: -15%;
+}
+
 
 .fit-col{
   width: 60%;
@@ -1531,4 +1536,23 @@ section {
 
 .counts span{
   font-weight: 700;
+}
+
+.smaller{
+  width: 70%;
+  margin-left: 25%;
+  margin-top: -10%;
+}
+
+.distant{
+  margin-top: 1%;
+  padding-left: 5%;
+}
+
+.center{
+  text-align: center;
+  margin-top:7%;
+  padding: 5%;
+  border: 4px #000000 dotted;
+  background-color: white;
 }
