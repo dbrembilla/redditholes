@@ -426,6 +426,25 @@ section {
   transform: translateX(5px);
 }
 
+@media (max-width: 768px){
+.about .btn-read-more {
+  line-height: 1.5;
+  height: 6em;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #f15641;
+  box-shadow: 0px 5px 25px #0000005b;
+}
+.about .btn-read-more span {
+  margin-top: -3.7em;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  font-size: 1.1em;
+  letter-spacing: 1px;
+}
+}
+
 /*--------------------------------------------------------------
 # Values
 --------------------------------------------------------------*/
@@ -1283,6 +1302,7 @@ section {
 .detached-bottom{
   margin-bottom: 8%;
   margin-left: 0.1%;
+  margin-top: 3%;
 }
 
 .closer{
