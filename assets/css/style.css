@@ -383,6 +383,13 @@ section {
   border-bottom: solid 0.15em #f15641;
   padding: 40px 0 40px 40px;
 }
+
+.about .content-reverse {
+  border-left: solid 0.15em #f15641;
+  border-right: solid 0.15em #f15641;
+  padding: 40px 40px 40px 40px;
+}
+
 .about h3 {
   font-size: 1.8em;
   font-weight: 900 !important;
@@ -1583,10 +1590,17 @@ section {
 }
 
 .counts .content {
-  border-top: solid 3px #f25641;
-  border-bottom: solid 3px #f25641;
+  border-right: solid 3px #f25641;
+  border-left: solid 3px #f25641;
   padding: 5%;
 }
+
+.values .content {
+  border-left: solid 3px #f25641;
+  border-right: solid 3px #f25641;
+  padding: 5%;
+}
+
 .counts h3 {
   font-size: 25px;
   font-weight: 900;
