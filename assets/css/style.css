@@ -1161,10 +1161,10 @@ section {
   background: #f15641;
 }
 .footer .footer-top {
-  background: white url(../img/footer-bg.png) no-repeat right top;
-  background-size: contain;
-  border-top: 1px solid #e1ecff;
-  border-bottom: 1px solid #e1ecff;
+  background: white url(../img/footer-bg.png) no-repeat top center;
+  background-size: cover;
+  border-top: 3px solid #f15641;
+  border-bottom: 3px solid #f15641;
   padding: 60px 0 30px 0;
 }
 @media (max-width: 992px) {
