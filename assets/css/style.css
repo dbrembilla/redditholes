@@ -1557,9 +1557,39 @@ section {
   50% { opacity: 1;}
 }
 
+@media (max-width: 1500px){
+  .wrapping-wrapper{
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+    width: 470px;
+    height: 470px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 4s infinite ease-in-out;
+  }
+
+}
+
+@media (max-width: 991px){
+  .wrapping-wrapper{
+    top: 30%;
+    left: 0%;
+    display: inline-block;
+    width: 470px;
+    height: 470px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 4s infinite ease-in-out;
+  }
+
+}
+
 @media (max-width: 768px){
   .wrapping-wrapper{
-    top: 22%;
+    top: 24%;
     left: 0%;
     display: inline-block;
     width: 470px;
@@ -1616,6 +1646,20 @@ section {
   }
 
 }
+
+@media (max-width: 450px){
+  .wrapping-wrapper{
+    top: 1%;
+    left: 0%;
+    display: inline-block;
+    width: 470px;
+    height: 470px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 4s infinite ease-in-out;
+  }
+  }
  
 .wordcloud{
   height: 50em !important;
