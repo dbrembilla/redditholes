@@ -433,6 +433,25 @@ section {
   transform: translateX(5px);
 }
 
+@media (max-width: 991px){
+  .about .btn-read-more {
+    line-height: 1.5;
+    height: 6em;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: #f15641;
+    box-shadow: 0px 5px 25px #0000005b;
+  }
+  .about .btn-read-more span {
+    margin-top: -1em;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+  }
+  }
+
 @media (max-width: 768px){
 .about .btn-read-more {
   line-height: 1.5;
@@ -443,8 +462,10 @@ section {
   background: #f15641;
   box-shadow: 0px 5px 25px #0000005b;
 }
+
 .about .btn-read-more span {
   margin-top: -2.2em;
+  word-wrap: break-word; 
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   font-size: 1.1em;
@@ -507,6 +528,15 @@ section {
   margin: 0.7em;
 }
 
+@media (max-width: 1204px) {
+  .counts .counts-box h3 {
+    font-size: 20px;
+    color: #f15641;
+    font-weight: 700;
+    margin: 0.7em;
+  }
+}
+
 
 @media (max-width: 991px) {
   .counts .counts-box h3 {
@@ -522,6 +552,9 @@ section {
     font-size: 24px;
     color: #f15641;
     font-weight: 700;
+    margin: 0.7em;
+  }
+  .counts .counts-box {
     margin: 0.7em;
   }
 }
@@ -784,7 +817,7 @@ section {
   .flip-card-front img{
     margin-top: -2em;
     max-height: 310px;
-    max-width: 350px;
+    max-width: 280px;
   }
 }
 
@@ -1356,7 +1389,7 @@ section {
 .container-topic{
   height: 500px;
   margin-top: 5%;
-  width: 115%;
+  width: 100%;
   margin-left: -6%;
 }
 
@@ -1589,6 +1622,33 @@ section {
   margin-left: 4em;
 }
 
+@media (max-width: 1200px) {
+  .wordcloud{
+    height: 50em !important;
+    visibility: visible;
+    margin-top: -2em;
+    margin-left: -2em;
+  }
+}
+
+@media (max-width: 991px) {
+  .wordcloud{
+    height: 50em !important;
+    visibility: visible;
+    margin-top: -2em;
+    margin-left: 9em;
+  }
+}
+
+@media (max-width: 768px) {
+  .wordcloud{
+    height: 50em !important;
+    visibility: visible;
+    margin-top: -2em;
+    margin-left: 0.2em;
+  }
+}
+
 .counts .content {
   border-right: solid 3px #f25641;
   border-left: solid 3px #f25641;
@@ -1655,6 +1715,21 @@ section {
   width: 70%;
   margin-left: 25%;
   margin-top: -10%;
+}
+
+@media (max-width: 991px){
+    .smaller{
+      width: 100%;
+      margin-top: -10%;
+    }
+}
+
+@media (max-width: 768px){
+  .smaller{
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 20%;
+  }
 }
 
 .distant{
