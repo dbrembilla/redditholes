@@ -381,10 +381,11 @@ section {
 .about .content {
   border-top: solid 0.15em #f15641;
   border-bottom: solid 0.15em #f15641;
-  padding: 40px 0 40px 40px;
+  padding: 40px 40px 40px 40px;
+  margin-top: 6em;
 }
 
-.about .content-reverse {
+.content-reverse {
   border-left: solid 0.15em #f15641;
   border-right: solid 0.15em #f15641;
   padding: 40px 40px 40px 40px;
@@ -673,9 +674,6 @@ section {
   margin-bottom: 3em;
 }
 
-#reference{
-  padding-top: 3.5em !important;
-}
 
 .features span{
   font-weight: 900 !important;
@@ -689,6 +687,10 @@ section {
 
 #reference span{
   font-weight: 900 !important;
+}
+
+#more_reference{
+  margin-top: -5em;
 }
 
 #more_reference span{
@@ -1656,9 +1658,15 @@ section {
 }
 
 .values .content {
-  border-left: solid 3px #f25641;
-  border-right: solid 3px #f25641;
   padding: 5%;
+}
+
+@media (max-width: 768px) {
+  .values .content {
+    border-left: solid 3px #f25641;
+    border-right: solid 3px #f25641;
+    padding: 5%;
+  }
 }
 
 .counts h3 {
