@@ -8,7 +8,7 @@ document.addEventListener(
 
 function visualize_section(section_name, section_class){
     if (section_name == "close_all"){
-        const class_list= ["hole", "hole_a", "hole_b", "hole_c"]
+        const class_list= ["hole", "hole_a", "hole_b", "hole_c", "cloud", "cloud_1", "cloud_2", "cloud_3"]
         for (y=0;y<class_list.length;y++){
             map_list = document.getElementsByClassName(class_list[y]);
             console.log(map_list)

@@ -1326,6 +1326,13 @@ section {
   width: 110%;
 }
 
+.container-topic{
+  height: 500px;
+  margin-top: 5%;
+  width: 115%;
+  margin-left: -6%;
+}
+
 .heat .section-header{
   margin-top: 10% !important;
   margin-bottom: -15%;
@@ -1552,6 +1559,7 @@ section {
   height: 50em !important;
   visibility: visible;
   margin-top: -2em;
+  margin-left: 4em;
 }
 
 .counts .content {
@@ -1596,6 +1604,17 @@ section {
 
 .counts span{
   font-weight: 700;
+}
+
+.counts hr {
+  border-top: 4px dotted #f15641;
+  background: #fff;
+  width: 33%;
+  opacity: 1 !important;
+}
+
+.counts a span {
+  padding-bottom: 10% !important;
 }
 
 .smaller{

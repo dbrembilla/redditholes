@@ -223,8 +223,7 @@
 
     </section><!-- End About Section -->
 
-    <div id="hole_main"> 
-    <br>
+
     <!-- ======= Values Section ======= -->
     <section id="redditholes" class="values">
 
@@ -240,10 +239,11 @@
               This section is dedicated to the networks of subreddits we found in our research. <br>
               These were found by investigating the posts shared by subreddits (e.g. a link to a news is shared between them, an image in common...), starting from r/conspiracy. We did this by employing Network Analysis tools (Gephi). The more the posts in common, the stronger the connection is. In particular, these networks were found by means of modularity (the cohesion of the network's communities) <br>
               We also observed the comment section's behavior through a Sentiment Analysis and a Topic Modelling. Sentiment Analysis returns whether the words in a comment are negative or positive (e.g. swear words make a comment negative), while Topic Modelling uses Deep Learning to find abstract topics in the texts. <br>
-              There may be lacking information / absence of some subreddits from comments-related data; that is because it often happens that there are no comments in crossposts, as a post was already seen in a more popular subreddit.
+              There may be lacking information / absence of some subreddits from comments-related data; that is because it often happens that there are no comments in crossposts, as a post was already seen in a more popular subreddit.<br id="hole_main"><br>
             </p>
           </div>
         </div>
+        
 
         <div class="row">
 
@@ -921,11 +921,10 @@
             </div>
           </div>
           
-
       </div>
 
     </section>
-    </div><!-- End Values Section -->
+    <!-- End Values Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="echo" class="counts">
@@ -968,16 +967,22 @@
 
           <div class="hide cloud" id="cloud_meta_news_crypto">
           <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-5">
               <img class="wordcloud" src="assets/img/wordclouds/png_comments_bitcoins_metareddit_news.png">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-7">
               <div class="content">
-                <h3>POLITICS, NEWS, METAREDDIT AND BITCOIN</h3>
-                <h2>Need to write something.</h2>
-                <p> 
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur recusandae quo molestiae ut iusto at perspiciatis quidem architecto! Voluptate rerum nobis fugiat aliquid iste maiores optio atque dolores sequi porro! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aliquam totam quo quaerat, voluptatum deleniti nulla aspernatur officiis. Odit doloribus iure maiores laboriosam officia expedita architecto accusantium voluptates et nobis?
-                </p>
+                <h3>Politics, News and Bitcoins</h3>
+                <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_bitcoins_metareddit_news6002_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
                 </div>
             </div>
             <div class="row detached-bottom">
@@ -1009,48 +1014,66 @@
           </div>
           <div class="hide cloud_1" id="cloud_news">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                   <img class="wordcloud" src="assets/img/wordclouds/png_comments_politics_news.png">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                   <div class="content">
                     <h3>NEWS AND POLITICS</h3>
-                    <h2>Need to write something</h2>
-                    <p> 
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                    </p>
-                    </div>
+                    <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_politics_news_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                <div class="clear"></div>
+                <div class="text-center text-lg-start right">
+                  <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                    <span>Bring me up!</span>
+                    <i class="bi bi-arrow-up"></i>           
+                  </a>
+                  </div>
+              </div>
                 </div>
               </div>
           </div>
           <div class="hide cloud_1" id="cloud_crypto">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-5">
                 <img class="wordcloud" src="assets/img/wordclouds/png_comments_bitcoins.png">
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-7">
                 <div class="content">
-                  <h3>CRYPTO</h3>
-                  <h2>Need to write something</h2>
-                  <p> 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                  </p>
-                  </div>
+                  <h3>Bitcoins, Crypto and stocks</h3>
+                  <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_bitcoins_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
+                </div>
               </div>
             </div>
         </div>
         <div class="hide cloud_1" id="cloud_meta">
           <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-5">
               <img class="wordcloud" src="assets/img/wordclouds/png_comments_meta_reddit.png">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-7">
               <div class="content">
                 <h3>METAREDDIT</h3>
-                <h2>Need to write something</h2>
-                <p> 
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                </p>
+                <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_meta_reddit_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
                 </div>
             </div>
           </div>
@@ -1058,17 +1081,23 @@
           </div>
           <div class="hide cloud" id="cloud_politics">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-5">
                 <img class="wordcloud" src="assets/img/wordclouds/png_comments_left_right_bernie.png">
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-7">
                 <div class="content">
-                  <h3>LEFT, RIGHT, BERNIE</h3>
-                  <h2>Need to write something.</h2>
-                  <p> 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur recusandae quo molestiae ut iusto at perspiciatis quidem architecto! Voluptate rerum nobis fugiat aliquid iste maiores optio atque dolores sequi porro! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aliquam totam quo quaerat, voluptatum deleniti nulla aspernatur officiis. Odit doloribus iure maiores laboriosam officia expedita architecto accusantium voluptates et nobis?
-                  </p>
-                  </div>
+                  <h3>LEFT, RIGHT and BERNIE</h3>
+                  <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_left_right_bernie7001_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
+                </div>
               </div>
               <div class="row detached-bottom">
                 <div class="col-lg-4">
@@ -1099,73 +1128,97 @@
             </div>
             <div class="hide cloud_2" id="cloud_bernie">
                 <div class="row">
-                  <div class="col-lg-6">
+                  <div class="col-lg-5">
                     <img class="wordcloud" src="assets/img/wordclouds/png_comments_bernie.png">
                   </div>
-                  <div class="col-lg-6">
+                  <div class="col-lg-7">
                     <div class="content">
-                      <h3>BERNIE</h3>
-                      <h2>Need to write something</h2>
-                      <p> 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                      </p>
-                      </div>
+                      <h3>Bernie Sander's subreddits</h3>
+                      <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_bernie3_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
+                </div>
                   </div>
                 </div>
             </div>
             <div class="hide cloud_2" id="cloud_left">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                   <img class="wordcloud" src="assets/img/wordclouds/png_comments_left.png">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                   <div class="content">
-                    <h3>LEFT</h3>
-                    <h2>Need to write something</h2>
-                    <p> 
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                    </p>
+                    <h3>LEFT politics</h3>
+                    <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_left_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
                     </div>
+                </div>
                 </div>
               </div>
           </div>
           <div class="hide cloud_3" id="cloud_right">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-5">
                 <img class="wordcloud" src="assets/img/wordclouds/png_comments_right.png">
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-7">
                 <div class="content">
-                  <h3>METAREDDIT</h3>
-                  <h2>Need to write something</h2>
-                  <p> 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                  </p>
-                  </div>
+                  <h3>Right politics</h3>
+                  <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_right_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
+                </div>
               </div>
             </div>
         </div>
             </div>
             <div class="hide cloud" id="cloud_science_conspiracies">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                   <img class="wordcloud" src="assets/img/wordclouds/png_comments_sciencePseudoscience_conspiracies.png">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                   <div class="content">
                     <h3>SCIENCE, PSEUDOSCIENCE AND CONsPIRACIES</h3>
-                    <h2>Need to write something.</h2>
-                    <p> 
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur recusandae quo molestiae ut iusto at perspiciatis quidem architecto! Voluptate rerum nobis fugiat aliquid iste maiores optio atque dolores sequi porro! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aliquam totam quo quaerat, voluptatum deleniti nulla aspernatur officiis. Odit doloribus iure maiores laboriosam officia expedita architecto accusantium voluptates et nobis?
-                    </p>
+                    <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_sciencePseudoscience_conspiracies501_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
                     </div>
+                </div>
                 </div>
                 <div class="row detached-bottom">
                   <div class="col-lg-6">
                     <a onclick="visualize_section('cloud_science', 'cloud_3')", href="#cloud_science">
                       <div class="counts-box d-flex align-items-center">
                         <i class="bi bi-check"></i>
-                        <h3>News</h3>
+                        <h3>Science and pseudoscience</h3>
                       </div>
                     </a>
                   </div>
@@ -1173,7 +1226,7 @@
                     <a onclick="visualize_section('cloud_conspiracies', 'cloud_3')", href="#cloud_conspiracies">
                       <div class="counts-box d-flex align-items-center">
                         <i class="bi bi-check"></i>
-                        <h3>Bitcoins and stock</h3>
+                        <h3>Conspiracies</h3>
                       </div>
                     </a>
                   </div>
@@ -1182,33 +1235,45 @@
               
               <div class="hide cloud_3" id="cloud_science">
                 <div class="row">
-                  <div class="col-lg-6">
+                  <div class="col-lg-5">
                     <img class="wordcloud" src="assets/img/wordclouds/png_comments_science_pseudoscience.png">
                   </div>
-                  <div class="col-lg-6">
+                  <div class="col-lg-7">
                     <div class="content">
                       <h3>SCIENCE</h3>
-                      <h2>Need to write something</h2>
-                      <p> 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                      </p>
-                      </div>
+                      <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_science_pseudoscience_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
+                    </div>
+                </div>
                   </div>
                 </div>
             </div>
             <div class="hide cloud_3" id="cloud_conspiracies">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                   <img class="wordcloud" src="assets/img/wordclouds/png_comments_conspiracies.png">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-7">
                   <div class="content">
                     <h3>CONSPIRACIES</h3>
-                    <h2>Need to write something</h2>
-                    <p> 
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime voluptates sapiente exercitationem, consequatur est aspernatur libero fuga fugiat officia deleniti incidunt quo aliquid iste accusantium qui ipsam rem commodi vero veritatis delectus consectetur? Veritatis labore architecto reprehenderit! Illo voluptas quasi repudiandae. Voluptatem ad animi asperiores dignissimos sunt fuga repellat corrupti.
-                    </p>
+                    <h2>What are we talking about?</h2>
+                <iframe class="container-topic" src="topics/topic_modeling_comments_conspiracies_html.html" height="100%" width="100%"></iframe>
+                <hr class="right">
+                  <div class="clear"></div>
+                  <div class="text-center text-lg-start right">
+                    <a onclick="visualize_section('close_all', 'close_all')"  href="#echo">
+                      <span>Bring me up!</span>
+                      <i class="bi bi-arrow-up"></i>           
+                    </a>
                     </div>
+                </div>
                 </div>
               </div>
           </div>
