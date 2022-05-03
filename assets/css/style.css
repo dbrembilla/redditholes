@@ -372,6 +372,32 @@ section {
   }
 }
 
+@media (max-width: 460px) {
+  .hero .btn-get-started {
+    margin-top: 30px;
+    height: 4em;
+    line-height: 0;
+    padding: 15px 40px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    word-wrap: break-word;
+    background: #f15641;
+    box-shadow: 0px 5px 30px #6304045b;
+  }
+  .hero .btn-get-started span {
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    letter-spacing: 1px;
+  }
+  .hero .btn-get-started i {
+    margin-left: 5px;
+    font-size: 18px;
+    transition: 0.3s;
+  }
+}
+
 /*--------------------------------------------------------------
 # Index Page
 --------------------------------------------------------------*/
@@ -474,6 +500,27 @@ section {
 }
 }
 
+@media (max-width: 460px){
+  .about .btn-read-more {
+    line-height: 1;
+    height: 6em;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: #f15641;
+    box-shadow: 0px 5px 25px #0000005b;
+  }
+  
+  .about .btn-read-more span {
+    margin-top: -3em;
+    word-wrap: break-word; 
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+  }
+  }
+
 /*--------------------------------------------------------------
 # Values
 --------------------------------------------------------------*/
@@ -551,6 +598,18 @@ section {
 @media (max-width: 768px) {
   .counts .counts-box h3 {
     font-size: 24px;
+    color: #f15641;
+    font-weight: 700;
+    margin: 0.7em;
+  }
+  .counts .counts-box {
+    margin: 0.7em;
+  }
+}
+
+@media (max-width: 460px) {
+  .counts .counts-box h3 {
+    font-size: 18px;
     color: #f15641;
     font-weight: 700;
     margin: 0.7em;
@@ -823,7 +882,13 @@ section {
   }
 }
 
-
+@media (max-width: 460px) {
+  .flip-card-front img{
+    margin-top: -1.5em;
+    max-height: 250px;
+    max-width: 220px;
+  }
+}
 
 
 /* Style the back side */
@@ -841,6 +906,19 @@ section {
   transition: 0.3s;
   border-radius: 5px;
 }
+
+@media(max-width: 460px){
+  .services .service-box {
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+    min-height: 300px;
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+}
+
 .services .service-box .icon {
   font-size: 36px;
   padding: 40px 20px;
@@ -1649,15 +1727,59 @@ section {
 
 @media (max-width: 450px){
   .wrapping-wrapper{
-    top: 1%;
-    left: 0%;
+    top: 10%;
+    left: -1%;
     display: inline-block;
-    width: 470px;
-    height: 470px;
+    width: 350px;
+    height: 350px;
     border-radius: 50%;
     position: relative;
     background-color: white;
     animation: loader 4s infinite ease-in-out;
+  }
+  .loader-wrapping{
+    top: 15%;
+    left: 15%;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+    background-color: #f15641;
+    animation: loader-wrapping 3s infinite ease-in-out;
+  }
+  
+  .loader-wrapper {
+    display: inline-block;
+    top: 30%;
+    left: 29%;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    position: relative;
+    background-color: white;
+    animation: loader 2s infinite ease-in-out;
+  }
+  
+  .loader {
+    display: inline-block;
+    top: 33%;
+    left: 33%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    animation: loader 1s infinite ease-in-out;
+  }
+  
+  .loader-inner {
+    height: 100%;
+    border-radius: 50%;
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    background-color: #f15641;
+    animation: loader-inner 2s infinite ease-in-out;
   }
   }
  
