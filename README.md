@@ -6,6 +6,6 @@ Credits:
 - Giorgia Sampò: Website Frontend, Topic Modelling, Scraping.
 - Davide Brembilla: Scraping, Plotting, Sentiment Analysis.
 License:
-- Data: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.com)
+- Data: [CC-BY](https://creativecommons.org/licenses/by/2.0/)
 - Software: [MIT](https://opensource.org/licenses/MIT)
 - Website original template: [© Copyright FlexStart. All Rights Reserved ](https://bootstrapmade.com/license/)
